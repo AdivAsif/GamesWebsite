@@ -1,0 +1,30 @@
+#main
+  %ul
+    %li
+      %a#title{href: root_path}
+        %span.i.fa.fa-gamepad
+        = t('.title')
+    - if user_signed_in?
+      %li
+        %a{href: edit_user_registration_path}
+          %span.i.fa.fa-user-edit
+          = t('.edit')
+      %li
+        %a{"data-method" => "delete", href: destroy_user_session_path}
+          %span.i.fa.fa-user-slash
+          = t('.logout')
+    -else
+      %li
+        %a{href: new_user_session_path}
+          %span.glyphicon.glyphicon-log-in
+          = t('.login')
+      %li
+        %a{href: new_user_registration_path}
+          %span.i.fa.fa-user-plus
+          = t('.sign_up')
+    %li
+      %button{:onclick => "myFunction()"}
+        %span.i.fa.fa-moon
+        = t('.dark')
+- flash.each do |key, value|
+  = content_tag :div, content_tag(:p, value), id: "#{key}" unless value.blank?

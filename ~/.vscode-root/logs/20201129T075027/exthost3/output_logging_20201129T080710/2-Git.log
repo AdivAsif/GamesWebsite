@@ -1,0 +1,54 @@
+Looking for git in: git
+Using git 2.27.0 from git
+> git rev-parse --git-dir
+Open repository: /home/adiv/notes
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse main
+> git rev-parse --symbolic-full-name main@{u}
+> git rev-list --left-right main...refs/remotes/origin/main
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git check-ignore -v -z --stdin
+> git check-ignore -v -z --stdin
+> git check-ignore -v -z --stdin
+> git show --textconv :app/helpers/home_helper.rb
+> git ls-files --stage -- /home/adiv/notes/app/helpers/home_helper.rb
+> git cat-file -s 23de56ac60aace0b1cc98dba68407ddcecc7614a
+> git show --textconv :app/helpers/notes_helper.rb
+> git ls-files --stage -- /home/adiv/notes/app/helpers/notes_helper.rb
+> git cat-file -s 8078f73032bd4f4c803f5994e0ff5b77268034e7
+> git show --textconv :app/helpers/home_helper.rb
+> git ls-files --stage -- /home/adiv/notes/app/helpers/home_helper.rb
+> git cat-file -s 23de56ac60aace0b1cc98dba68407ddcecc7614a
+> git check-ignore -v -z --stdin
+> git check-ignore -v -z --stdin
+> git check-ignore -v -z --stdin
+> git check-ignore -v -z --stdin
+> git check-ignore -v -z --stdin
+> git check-ignore -v -z --stdin
+> git check-ignore -v -z --stdin
+> git show --textconv :app/views/shared/_header.html.haml
+> git ls-files --stage -- /home/adiv/notes/app/views/shared/_header.html.haml
+> git cat-file -s b3925b35d11eb432f164a06ac8b5bea181f84871
+> git check-ignore -v -z --stdin
+> git show --textconv :app/views/layouts/application.html.haml
+> git ls-files --stage -- /home/adiv/notes/app/views/layouts/application.html.haml
+> git cat-file -s 70dc1f61c9656bdddda2dd453417b85ce91ddc86
+> git check-ignore -v -z --stdin
+> git check-ignore -v -z --stdin
+> git show --textconv :config/locales/en.yml
+> git ls-files --stage -- /home/adiv/notes/config/locales/en.yml
+> git cat-file -s dc4562bfe72fd92582456ecb9ac9146a8ed9b655
+> git show --textconv :app/views/shared/_header.html.haml
+> git ls-files --stage -- /home/adiv/notes/app/views/shared/_header.html.haml
+> git cat-file -s b3925b35d11eb432f164a06ac8b5bea181f84871
+> git show --textconv :app/views/shared/_footer.html.haml
+> git ls-files --stage -- /home/adiv/notes/app/views/shared/_footer.html.haml
+> git cat-file -s 7d6844a431d6f4cebf5562390be1426b0dd3ec96
+> git check-ignore -v -z --stdin
+> git check-ignore -v -z --stdin
+> git show --textconv :db/schema.rb
+> git ls-files --stage -- /home/adiv/notes/db/schema.rb
+> git cat-file -s 4aac75b4c430f754a3ea3c1a4a5fd9bee1152c4c

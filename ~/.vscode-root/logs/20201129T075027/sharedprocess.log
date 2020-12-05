@@ -1,0 +1,9 @@
+[2020-11-29 07:50:31.636] [sharedprocess] [info] main {"machineId":"f7730d371489cdeb8b6961785377014ba7290ca498c32b096fc8e74218ad7c23","windowId":2}
+[2020-11-29 07:50:31.729] [sharedprocess] [error] [File Watcher (node.js)] Error: ENOENT: no such file or directory, stat '/home/adiv/games/~/.vscode-root/User/snippets'
+[2020-11-29 07:51:11.681] [sharedprocess] [info] Starting to clean up unused language packs.
+[2020-11-30 11:32:36.723] [sharedprocess] [info] Installing extension: gencer.html-slim-scss-css-class-completion
+[2020-11-30 11:32:37.538] [sharedprocess] [info] Downloaded extension: gencer.html-slim-scss-css-class-completion undefined
+[2020-11-30 11:32:37.727] [sharedprocess] [info] Extracted extension to /root/.vscode/extensions/.gencer.html-slim-scss-css-class-completion-1.7.8: gencer.html-slim-scss-css-class-completion
+[2020-11-30 11:32:37.728] [sharedprocess] [info] Renamed to /root/.vscode/extensions/gencer.html-slim-scss-css-class-completion-1.7.8
+[2020-11-30 11:32:37.728] [sharedprocess] [info] Installation completed. gencer.html-slim-scss-css-class-completion
+[2020-11-30 11:32:37.733] [sharedprocess] [info] Extensions installed successfully: gencer.html-slim-scss-css-class-completion

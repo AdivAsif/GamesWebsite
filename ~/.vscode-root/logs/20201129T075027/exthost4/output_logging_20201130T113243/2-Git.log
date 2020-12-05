@@ -1,0 +1,31 @@
+Looking for git in: git
+Using git 2.27.0 from git
+> git rev-parse --git-dir
+Open repository: /home/adiv/notes
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse main
+> git rev-parse --symbolic-full-name main@{u}
+> git check-ignore -v -z --stdin
+> git rev-list --left-right main...refs/remotes/origin/main
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git show --textconv :db/schema.rb
+> git ls-files --stage -- /home/adiv/notes/db/schema.rb
+> git cat-file -s 4aac75b4c430f754a3ea3c1a4a5fd9bee1152c4c
+> git check-ignore -v -z --stdin
+> git show --textconv :db/migrate/20201127154339_devise_create_users.rb
+> git ls-files --stage -- /home/adiv/notes/db/migrate/20201127154339_devise_create_users.rb
+> git cat-file -s f674a59596e78c4daa13dfd1d8413497212d6f86
+> git show --textconv :db/migrate/20201127175328_add_users_to_notes.rb
+> git ls-files --stage -- /home/adiv/notes/db/migrate/20201127175328_add_users_to_notes.rb
+> git cat-file -s f1e5a8325b5b069ddb3305e25b8d80d9d88db285
+> git check-ignore -v -z --stdin
+> git show --textconv :config/routes.rb
+> git ls-files --stage -- /home/adiv/notes/config/routes.rb
+> git cat-file -s 8e587f3085f8b006da87e0e76d4cc0c4b628a581
+> git show --textconv :app/views/home/home.html.haml
+> git ls-files --stage -- /home/adiv/notes/app/views/home/home.html.haml
+> git cat-file -s 577c38fcd10c5c7b7e53c3d0c70f6b6be473469d
+> git check-ignore -v -z --stdin

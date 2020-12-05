@@ -1,0 +1,53 @@
+Looking for git in: git
+Using git 2.27.0 from git
+> git rev-parse --git-dir
+Open repository: /home/adiv/notes
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse main
+> git rev-parse --symbolic-full-name main@{u}
+> git rev-list --left-right main...refs/remotes/origin/main
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git check-ignore -v -z --stdin
+> git show --textconv :app/views/home/home.html.haml
+> git ls-files --stage -- /home/adiv/notes/app/views/home/home.html.haml
+> git cat-file -s 577c38fcd10c5c7b7e53c3d0c70f6b6be473469d
+> git check-ignore -v -z --stdin
+> git show --textconv :app/assets/stylesheets/home.scss
+> git ls-files --stage -- /home/adiv/notes/app/assets/stylesheets/home.scss
+> git cat-file -s e3dc93962b1d8320621afa731a10e6fc23274898
+> git show --textconv :app/assets/stylesheets/application.css.scss
+> git ls-files --stage -- /home/adiv/notes/app/assets/stylesheets/application.css.scss
+> git cat-file -s 42925bb512e6f86f99d6183cd471575cc5e8cd49
+> git show --textconv :app/assets/stylesheets/home.scss
+> git ls-files --stage -- /home/adiv/notes/app/assets/stylesheets/home.scss
+> git cat-file -s e3dc93962b1d8320621afa731a10e6fc23274898
+> git show --textconv :app/assets/stylesheets/notes.scss
+> git ls-files --stage -- /home/adiv/notes/app/assets/stylesheets/notes.scss
+> git cat-file -s 044e3d1a8e2a02bc68ee6e0826690ee9688b5d47
+> git show --textconv :app/assets/stylesheets/application.css.scss
+> git ls-files --stage -- /home/adiv/notes/app/assets/stylesheets/application.css.scss
+> git cat-file -s 42925bb512e6f86f99d6183cd471575cc5e8cd49
+> git check-ignore -v -z --stdin
+> git check-ignore -v -z --stdin
+> git check-ignore -v -z --stdin
+> git show --textconv :app/views/shared/_header.html.haml
+> git ls-files --stage -- /home/adiv/notes/app/views/shared/_header.html.haml
+> git cat-file -s b3925b35d11eb432f164a06ac8b5bea181f84871
+> git show --textconv :app/assets/stylesheets/application.css.scss
+> git ls-files --stage -- /home/adiv/notes/app/assets/stylesheets/application.css.scss
+> git cat-file -s 42925bb512e6f86f99d6183cd471575cc5e8cd49
+> git check-ignore -v -z --stdin
+> git show --textconv :app/assets/javascripts/application.js
+> git ls-files --stage -- /home/adiv/notes/app/assets/javascripts/application.js
+> git cat-file -s 5f33a2f67f4bf501821383c83ddcc620d1b2f319
+> git show --textconv :app/views/notes/show.html.haml
+> git ls-files --stage -- /home/adiv/notes/app/views/notes/show.html.haml
+> git cat-file -s 96330094876cf36ba367d72ab475712e6c689f81
+> git check-ignore -v -z --stdin
+> git check-ignore -v -z --stdin
+> git show --textconv :config/locales/en.yml
+> git ls-files --stage -- /home/adiv/notes/config/locales/en.yml
+> git cat-file -s dc4562bfe72fd92582456ecb9ac9146a8ed9b655
