@@ -1,0 +1,30 @@
+%p#notice= notice
+
+%p
+  %b Name:
+  = @game.name
+%p
+  %b Cover:
+  = @game.cover
+%p
+  %b Genre:
+  = @game.genre
+%p
+  %b Release date:
+  = @game.release_date
+%p
+  %b Rating:
+  = @game.rating
+%p
+  %b Aggregated rating:
+  = @game.aggregated_rating
+%p
+  %b Platform:
+  = @game.platform
+%p
+  %b Summary:
+  = @game.summary
+
+= link_to 'Edit', edit_game_path(@game)
+\|
+= link_to 'Back', games_path

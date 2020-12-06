@@ -1,0 +1,35 @@
+%h1 Listing games
+
+%table
+  %thead
+    %tr
+      %th Name
+      %th Cover
+      %th Genre
+      %th Release date
+      %th Rating
+      %th Aggregated rating
+      %th Platform
+      %th Summary
+      %th
+      %th
+      %th
+
+  %tbody
+    - @games.each do |game|
+      %tr
+        %td= game.name
+        %td= game.cover
+        %td= game.genre
+        %td= game.release_date
+        %td= game.rating
+        %td= game.aggregated_rating
+        %td= game.platform
+        %td= game.summary
+        %td= link_to 'Show', game
+        %td= link_to 'Edit', edit_game_path(game)
+        %td= link_to 'Destroy', game, method: :delete, data: { confirm: 'Are you sure?' }
+
+%br
+
+= link_to 'New Game', new_game_path

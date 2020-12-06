@@ -35,8 +35,9 @@ en:
 
   home:
     home:
-      title: Home Page
-      welcome: "Games: "
+      title: Game List
+      welcome: You can view games in the database and add them to your list, save them and rate them!
+      profile: Your profile
 
   shared:
     header:
@@ -56,3 +57,4 @@ en:
       databasetext: Data for the games from igdb
       github: Github
       githubtext: Code at Github
+      scrolltop: Scroll to top

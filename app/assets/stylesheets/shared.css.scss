@@ -27,6 +27,8 @@
   }
 
   li button {
+    position: absolute;
+    right: 0;
     display: block;
     text-align: center;
     background: none!important;
@@ -52,12 +54,14 @@ footer {
   text-align: center;
 
   .column1 {
+    padding: 6px;
     margin-left: auto;
     height: 100%;
     width: 33%;
     float: left;
   }
   .column2 {
+    padding: 6px;
     margin: auto;
     height: 100%;
     width: 33%;
@@ -75,6 +79,7 @@ footer {
     }
   }
   .column3 {
+    padding: 6px;
     margin-right: auto;
     height: 100%;
     width: 33%;
@@ -88,5 +93,19 @@ footer {
   p {
     color: #ffffff;
   }
-
+  button {
+    position: absolute;
+    right: 0;
+    text-align: center;
+    background: none!important;
+    border: none;
+    padding: 30px!important;
+    color: #cccccc;
+    text-decoration: none;
+    cursor: pointer;
+  }
+  button:hover {
+    color: #ffffff;
+    text-decoration: none;
+  }
 }

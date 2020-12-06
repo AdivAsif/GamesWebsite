@@ -23,3 +23,8 @@ function myFunction() {
   var element = document.body;
   element.classList.toggle("dark-mode");
 }
+
+function scrollTopFunction() {
+  document.body.scrollTop = 0;
+  document.documentElement.scrollTop = 0;
+}

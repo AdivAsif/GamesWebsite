@@ -6,16 +6,15 @@ form label, form input {
 #container {
   margin: 0 auto;
   height: 1000px;
-  width: 66%;
+  width: 90%;
   text-align: center;
   overflow: auto;
 
   .center {
     margin: auto;
     height: 100%;
-    width: 50%;
-    display: inline-block;
-    background-color: rgba(0, 0, 0, 0.5);
+    width: 100%;
+    background-color: rgba(155, 155, 155, 0.8);
 
     #welcomep {
       margin-top: auto;
@@ -25,34 +24,6 @@ form label, form input {
     }
     #welcome_id {
       margin: auto;
-      height: 35px;
-      font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
-      background-color: rgba(255, 255, 255, 0.8);
-    }
-  }
-
-  .left {
-    margin-left: auto;
-    height: 100%;
-    width: 25%;
-    float: left;
-
-    #left_text {
-      margin-top: auto;
-      height: 35px;
-      font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
-      background-color: rgba(255, 255, 255, 0.8);
-    }
-  }
-
-  .right {
-    margin-right: auto;
-    height: 100%;
-    width: 25%;
-    float: right;
-
-    #right_text {
-      margin-top: auto;
       height: 35px;
       font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
       background-color: rgba(255, 255, 255, 0.8);
