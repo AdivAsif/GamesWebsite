@@ -285,3 +285,84 @@ fatal: no upstream configured for branch 'master'
 > git remote --verbose
 > git config --get commit.template
 > git check-ignore -v -z --stdin
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+fatal: no upstream configured for branch 'master'
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git ls-files --stage -- /home/adiv/games/app/adapters/igdbapi.rb
+> git cat-file -s f05bb816c97442b8648ea4c57dd5939157661ea2
+> git show --textconv :app/adapters/igdbapi.rb
+> git show --textconv :db/development.sqlite3
+> git ls-files --stage -- /home/adiv/games/db/development.sqlite3
+> git show --textconv :db/migrate/20201206165343_create_games.rb
+> git ls-files --stage -- /home/adiv/games/db/migrate/20201206165343_create_games.rb
+> git cat-file -s b326477ac843dadc1761ae75091116380fb6e1d2
+> git show --textconv :db/migrate/20201130193329_devise_create_users.rb
+> git ls-files --stage -- /home/adiv/games/db/migrate/20201130193329_devise_create_users.rb
+> git cat-file -s e4fe133a93db2fd95c8e87621a9d00a4ee60b277
+> git show --textconv :db/migrate/20201130200541_add_username_to_users.rb
+> git ls-files --stage -- /home/adiv/games/db/migrate/20201130200541_add_username_to_users.rb
+> git cat-file -s fed95d0e61ff88273a92054c738b6924e59a6919
+> git show --textconv :db/migrate/20201130193329_devise_create_users.rb
+> git ls-files --stage -- /home/adiv/games/db/migrate/20201130193329_devise_create_users.rb
+> git cat-file -s e4fe133a93db2fd95c8e87621a9d00a4ee60b277
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+fatal: no upstream configured for branch 'master'
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git show --textconv :db/development.sqlite3
+> git ls-files --stage -- /home/adiv/games/db/development.sqlite3
+> git show --textconv :db/migrate/20201206165343_create_games.rb
+> git ls-files --stage -- /home/adiv/games/db/migrate/20201206165343_create_games.rb
+> git cat-file -s b326477ac843dadc1761ae75091116380fb6e1d2
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+fatal: no upstream configured for branch 'master'
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+fatal: no upstream configured for branch 'master'
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+fatal: no upstream configured for branch 'master'
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+fatal: no upstream configured for branch 'master'
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+fatal: no upstream configured for branch 'master'
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git check-ignore -v -z --stdin
+> git show --textconv :db/migrate/20201206165634_add_index_to_games.rb
+> git ls-files --stage -- /home/adiv/games/db/migrate/20201206165634_add_index_to_games.rb
