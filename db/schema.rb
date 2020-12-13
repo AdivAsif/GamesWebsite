@@ -10,20 +10,17 @@
 #
 # It's strongly recommended that you check this file into your version control system.
 
-ActiveRecord::Schema.define(version: 2020_12_06_165634) do
+ActiveRecord::Schema.define(version: 2020_12_12_031348) do
 
   # These are extensions that must be enabled in order to support this database
   enable_extension "plpgsql"
 
   create_table "games", force: :cascade do |t|
-    t.string "name", null: false
-    t.string "cover", null: false
-    t.string "genre", null: false
-    t.string "release_date", null: false
+    t.string "name"
+    t.string "cover"
     t.integer "rating"
-    t.decimal "aggregated_rating"
-    t.string "platform", null: false
-    t.string "summary", null: false
+    t.string "summary"
+    t.string "genre"
     t.datetime "created_at", null: false
     t.datetime "updated_at", null: false
     t.index ["name"], name: "index_games_on_name", unique: true

@@ -23,8 +23,14 @@
           %span.i.fa.fa-user-plus
           = t('.sign_up')
     %li
+      %a{href: games_path}
+        %span.i.fa.fa-database
+        = t('.games')
+    %li
+      %a{href: contact_path}
+        %span.i.fa.fa-envelope
+        = t('.contact')
+    %li
       %button{:onclick => "myFunction()"}
         %span.i.fa.fa-moon
         = t('.dark')
-- flash.each do |key, value|
-  = content_tag :div, content_tag(:p, value), id: "#{key}" unless value.blank?

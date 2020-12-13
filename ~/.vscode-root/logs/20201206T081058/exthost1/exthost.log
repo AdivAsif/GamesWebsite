@@ -30,3 +30,7 @@
 [2020-12-06 08:31:50.263] [exthost] [info] ExtensionService#loadCommonJSModule file:///root/.vscode/extensions/aki77.rails-routes-0.4.1/out/extension
 [2020-12-06 08:31:51.694] [exthost] [info] ExtensionService#_doActivateExtension rebornix.ruby {"startup":false,"extensionId":{"value":"rebornix.ruby","_lower":"rebornix.ruby"},"activationEvent":"onLanguage:erb"}
 [2020-12-06 08:31:51.695] [exthost] [info] ExtensionService#loadCommonJSModule file:///root/.vscode/extensions/rebornix.ruby-0.27.0/dist/client/ruby.js
+[2020-12-06 09:03:05.113] [exthost] [info] ExtensionService#_doActivateExtension karunamurti.haml {"startup":false,"extensionId":{"value":"karunamurti.haml","_lower":"karunamurti.haml"},"activationEvent":"onLanguage:haml"}
+[2020-12-06 09:03:05.126] [exthost] [info] ExtensionService#loadCommonJSModule file:///root/.vscode/extensions/karunamurti.haml-1.3.1/haml
+[2020-12-06 09:36:13.831] [exthost] [info] ExtensionService#_doActivateExtension vscode.html-language-features {"startup":false,"extensionId":{"value":"vscode.html-language-features","_lower":"vscode.html-language-features"},"activationEvent":"onLanguage:html"}
+[2020-12-06 09:36:13.839] [exthost] [info] ExtensionService#loadCommonJSModule file:///snap/code/50/usr/share/code/resources/app/extensions/html-language-features/client/dist/node/htmlClientMain

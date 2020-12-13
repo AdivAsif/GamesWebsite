@@ -1,11 +1,5 @@
-form label, form input {
-  display: block;
-  margin: 10px;
-}
-
 #container {
   margin: 0 auto;
-  height: 1000px;
   width: 90%;
   text-align: center;
   overflow: auto;
@@ -14,19 +8,29 @@ form label, form input {
     margin: auto;
     height: 100%;
     width: 100%;
-    background-color: rgba(155, 155, 155, 0.8);
+    background-color: rgba(200, 200, 200, 0.8);
 
-    #welcomep {
-      margin-top: auto;
-      height: 35px;
-      font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
-      background-color: rgba(255, 255, 255, 0.8);
+    .field {
+      text-align: center;
+      margin: auto;
+      padding: 6px;
     }
-    #welcome_id {
+    form label, form input {
+      display: block;
+      margin: auto;
+      padding: 2px;
+    }
+    p {
       margin: auto;
       height: 35px;
       font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
-      background-color: rgba(255, 255, 255, 0.8);
+      background-color: rgba(155, 155, 155, 0.8);
+    }
+    h1 {
+      margin: auto;
+      height: 35px;
+      font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+      background-color: rgba(155, 155, 155, 0.8);
     }
   }
 }

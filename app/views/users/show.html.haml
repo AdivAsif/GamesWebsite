@@ -1,2 +1,5 @@
-= @user.email
-= link_to "Back", root_path
+- if user_signed_in?
+  = @user.email
+  = link_to "Back", root_path
+-else
+  = link_to "Sign In First", root_path

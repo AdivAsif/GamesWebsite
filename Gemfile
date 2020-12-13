@@ -81,6 +81,6 @@ gem 'devise'
 
 gem 'sprockets'
 
-gem 'ruby-apicalypse'
+gem 'steam_web_api'
 
 gem 'font-awesome-sass'

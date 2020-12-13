@@ -1,0 +1,5 @@
+#games
+  %ul
+    %li
+      - @games.each do |game|
+        = link_to image_tag("/assets/#{game.cover}"), game

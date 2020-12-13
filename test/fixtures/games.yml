@@ -1,21 +1,21 @@
 # Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
 
 one:
-  name: MyString
-  cover: MyString
-  genre: MyString
-  release_date: MyString
+  name: MyString 1
+  cover: MyString 1
+  genre: MyString 1
+  release_date: MyString 1
   rating: 1
   aggregated_rating: 9.99
-  platform: MyString
-  summary: MyString
+  platform: MyString 1
+  summary: MyString 1
 
 two:
-  name: MyString
-  cover: MyString
-  genre: MyString
-  release_date: MyString
-  rating: 1
-  aggregated_rating: 9.99
-  platform: MyString
-  summary: MyString
+  name: MyString 2
+  cover: MyString 2
+  genre: MyString 2
+  release_date: MyString 2
+  rating: 2
+  aggregated_rating: 8.99
+  platform: MyString 2
+  summary: MyString 2

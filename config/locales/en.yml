@@ -38,6 +38,19 @@ en:
       title: Game List
       welcome: You can view games in the database and add them to your list, save them and rate them!
       profile: Your profile
+    contact:
+      title: Contact Us
+      contact_us: Complete the following form to get in touch with us.
+      name: "Name:"
+      enter_name: Enter your name
+      email: "Email:"
+      enter_email: Enter your email address
+      message: "Message:"
+      enter_message: What do you want to say?
+      submit: Contact Us
+    request_contact:
+      no_email: You must supply an email address.
+      email_sent: Thank you. We will be in touch shortly.
 
   shared:
     header:
@@ -46,6 +59,7 @@ en:
       sign_up: Sign Up
       edit: Edit User
       logout: Log Out
+      games: Games
       contact: Contact Us
       search: Search games
       submit: Search!
@@ -53,8 +67,6 @@ en:
     footer:
       about: About
       abouttext: Project for module COM2025 by Adiv Asif, University of Surrey
-      database: Database
-      databasetext: Data for the games from igdb
       github: Github
       githubtext: Code at Github
       scrolltop: Scroll to top

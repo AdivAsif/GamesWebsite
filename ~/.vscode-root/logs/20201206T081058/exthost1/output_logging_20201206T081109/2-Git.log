@@ -366,3 +366,3456 @@ fatal: no upstream configured for branch 'master'
 > git check-ignore -v -z --stdin
 > git show --textconv :db/migrate/20201206165634_add_index_to_games.rb
 > git ls-files --stage -- /home/adiv/games/db/migrate/20201206165634_add_index_to_games.rb
+> git status -z -u
+> git ls-files --stage -- /home/adiv/games/db/migrate/20201206165634_add_index_to_games.rb
+> git symbolic-ref --short HEAD
+> git cat-file -s 907f61a2c278f30e6093f9cc675cdc381f882927
+> git rev-parse master
+> git show --textconv :db/migrate/20201206165634_add_index_to_games.rb
+> git rev-parse --symbolic-full-name master@{u}
+fatal: no upstream configured for branch 'master'
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git log --format=%H%n%aN%n%aE%n%at%n%ct%n%P%n%B -z -n21 -- /home/adiv/games/db/test.sqlite3
+> git show --textconv :db/seeds.rb
+> git ls-files --stage -- /home/adiv/games/db/seeds.rb
+> git cat-file -s 1beea2accd7ed91d080b323eef17dba95e95e27f
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+fatal: no upstream configured for branch 'master'
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git show --textconv :db/migrate/20201206165634_add_index_to_games.rb
+> git ls-files --stage -- /home/adiv/games/db/migrate/20201206165634_add_index_to_games.rb
+> git cat-file -s 907f61a2c278f30e6093f9cc675cdc381f882927
+> git show --textconv :app/models/game.rb
+> git ls-files --stage -- /home/adiv/games/app/models/game.rb
+> git cat-file -s 7acf4800f32b9ca03240b89dbd2d0074271141af
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+fatal: no upstream configured for branch 'master'
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git show --textconv :test/fixtures/games.yml
+> git ls-files --stage -- /home/adiv/games/test/fixtures/games.yml
+> git cat-file -s 109e02fe7d495faed1c9b7558b61349c5a1f4188
+> git check-ignore -v -z --stdin
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+fatal: no upstream configured for branch 'master'
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+fatal: no upstream configured for branch 'master'
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+fatal: no upstream configured for branch 'master'
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+fatal: no upstream configured for branch 'master'
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+fatal: no upstream configured for branch 'master'
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+fatal: no upstream configured for branch 'master'
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+fatal: no upstream configured for branch 'master'
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+fatal: no upstream configured for branch 'master'
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git show --textconv :test/controllers/games_controller_test.rb
+> git ls-files --stage -- /home/adiv/games/test/controllers/games_controller_test.rb
+> git cat-file -s 1f89286239d01113aaf21a6c9dd884548f89e45d
+> git check-ignore -v -z --stdin
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+fatal: no upstream configured for branch 'master'
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+fatal: no upstream configured for branch 'master'
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+fatal: no upstream configured for branch 'master'
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git show --textconv :app/models/game.rb
+> git ls-files --stage -- /home/adiv/games/app/models/game.rb
+> git cat-file -s 7acf4800f32b9ca03240b89dbd2d0074271141af
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+fatal: no upstream configured for branch 'master'
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+fatal: no upstream configured for branch 'master'
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git check-ignore -v -z --stdin
+> git show --textconv :app/views/users/show.html.haml
+> git ls-files --stage -- /home/adiv/games/app/views/users/show.html.haml
+> git cat-file -s 5bd9721c48dc684463b13dbfe5f5bddddfbb1dd8
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+fatal: no upstream configured for branch 'master'
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git show --textconv :app/views/home/home.html.haml
+> git ls-files --stage -- /home/adiv/games/app/views/home/home.html.haml
+> git cat-file -s 406eff3920f7fb0ceca32aa17d1b672db7800544
+> git show --textconv :app/views/users/show.html.haml
+> git ls-files --stage -- /home/adiv/games/app/views/users/show.html.haml
+> git cat-file -s 5bd9721c48dc684463b13dbfe5f5bddddfbb1dd8
+> git show --textconv :app/models/game.rb
+> git ls-files --stage -- /home/adiv/games/app/models/game.rb
+> git cat-file -s 7acf4800f32b9ca03240b89dbd2d0074271141af
+> git show --textconv :test/controllers/games_controller_test.rb
+> git ls-files --stage -- /home/adiv/games/test/controllers/games_controller_test.rb
+> git cat-file -s 1f89286239d01113aaf21a6c9dd884548f89e45d
+> git show --textconv :app/assets/stylesheets/shared.css.scss
+> git ls-files --stage -- /home/adiv/games/app/assets/stylesheets/shared.css.scss
+> git cat-file -s 9249ce1394eb68453265f6845a2ae1489c617b49
+> git show --textconv :app/assets/stylesheets/home.css.scss
+> git ls-files --stage -- /home/adiv/games/app/assets/stylesheets/home.css.scss
+> git cat-file -s fe249a329e68a8ef5d1fc93b1eb8109786222f4e
+> git show --textconv :app/assets/stylesheets/shared.css.scss
+> git ls-files --stage -- /home/adiv/games/app/assets/stylesheets/shared.css.scss
+> git cat-file -s 9249ce1394eb68453265f6845a2ae1489c617b49
+> git show --textconv :app/assets/javascripts/api.js
+> git ls-files --stage -- /home/adiv/games/app/assets/javascripts/api.js
+> git cat-file -s 83634a848f89030813620ca0c1b0c4d7d8556da7
+> git check-ignore -v -z --stdin
+> git show --textconv :app/assets/stylesheets/shared.css.scss
+> git ls-files --stage -- /home/adiv/games/app/assets/stylesheets/shared.css.scss
+> git cat-file -s 9249ce1394eb68453265f6845a2ae1489c617b49
+> git show --textconv :app/views/shared/_footer.html.haml
+> git ls-files --stage -- /home/adiv/games/app/views/shared/_footer.html.haml
+> git cat-file -s 08e3260254a7e41c7551ed001c19a9b5b499e605
+> git show --textconv :app/views/shared/_header.html.haml
+> git ls-files --stage -- /home/adiv/games/app/views/shared/_header.html.haml
+> git cat-file -s f59177d56a42be2ae4319b0f636073efe4f4c3de
+> git show --textconv :app/views/users/show.html.haml
+> git ls-files --stage -- /home/adiv/games/app/views/users/show.html.haml
+> git cat-file -s 5bd9721c48dc684463b13dbfe5f5bddddfbb1dd8
+> git show --textconv :app/views/shared/_header.html.haml
+> git ls-files --stage -- /home/adiv/games/app/views/shared/_header.html.haml
+> git cat-file -s f59177d56a42be2ae4319b0f636073efe4f4c3de
+> git show --textconv :app/views/users/show.html.haml
+> git ls-files --stage -- /home/adiv/games/app/views/users/show.html.haml
+> git cat-file -s 5bd9721c48dc684463b13dbfe5f5bddddfbb1dd8
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+fatal: no upstream configured for branch 'master'
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git show --textconv :app/views/shared/_header.html.haml
+> git ls-files --stage -- /home/adiv/games/app/views/shared/_header.html.haml
+> git cat-file -s f59177d56a42be2ae4319b0f636073efe4f4c3de
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+fatal: no upstream configured for branch 'master'
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git show --textconv :app/views/users/show.html.haml
+> git ls-files --stage -- /home/adiv/games/app/views/users/show.html.haml
+> git cat-file -s 5bd9721c48dc684463b13dbfe5f5bddddfbb1dd8
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+fatal: no upstream configured for branch 'master'
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+fatal: no upstream configured for branch 'master'
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+fatal: no upstream configured for branch 'master'
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+fatal: no upstream configured for branch 'master'
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+fatal: no upstream configured for branch 'master'
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+fatal: no upstream configured for branch 'master'
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+fatal: no upstream configured for branch 'master'
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git check-ignore -v -z --stdin
+> git show --textconv :db/seeds.rb
+> git ls-files --stage -- /home/adiv/games/db/seeds.rb
+> git cat-file -s 1beea2accd7ed91d080b323eef17dba95e95e27f
+> git show --textconv :db/schema.rb
+> git ls-files --stage -- /home/adiv/games/db/schema.rb
+> git cat-file -s 5f7743757498109c10165f7931d551fcdf6e12a9
+> git show --textconv :config/routes.rb
+> git ls-files --stage -- /home/adiv/games/config/routes.rb
+> git cat-file -s 9b1a9f40d64fa44d5cfb284da084be7e2d4592df
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+fatal: no upstream configured for branch 'master'
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git show --textconv :app/controllers/home_controller.rb
+> git ls-files --stage -- /home/adiv/games/app/controllers/home_controller.rb
+> git cat-file -s 0d3475e91942fd046d4613ce5ad06f1f263481a4
+> git check-ignore -v -z --stdin
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+fatal: no upstream configured for branch 'master'
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git show --textconv :app/views/home/contact.html.haml
+> git ls-files --stage -- /home/adiv/games/app/views/home/contact.html.haml
+> git check-ignore -v -z --stdin
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+fatal: no upstream configured for branch 'master'
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+fatal: no upstream configured for branch 'master'
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+fatal: no upstream configured for branch 'master'
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+fatal: no upstream configured for branch 'master'
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git show --textconv :config/locales/en.yml
+> git ls-files --stage -- /home/adiv/games/config/locales/en.yml
+> git cat-file -s a472d4ba9fefc174b057a48b8ab835ee329e3792
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+fatal: no upstream configured for branch 'master'
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+fatal: no upstream configured for branch 'master'
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+fatal: no upstream configured for branch 'master'
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git show --textconv :config/routes.rb
+> git ls-files --stage -- /home/adiv/games/config/routes.rb
+> git cat-file -s 9b1a9f40d64fa44d5cfb284da084be7e2d4592df
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+fatal: no upstream configured for branch 'master'
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+fatal: no upstream configured for branch 'master'
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git show --textconv :app/controllers/home_controller.rb
+> git ls-files --stage -- /home/adiv/games/app/controllers/home_controller.rb
+> git cat-file -s 0d3475e91942fd046d4613ce5ad06f1f263481a4
+> git show --textconv :test/controllers/home_controller_test.rb
+> git ls-files --stage -- /home/adiv/games/test/controllers/home_controller_test.rb
+> git check-ignore -v -z --stdin
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+fatal: no upstream configured for branch 'master'
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+fatal: no upstream configured for branch 'master'
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+fatal: no upstream configured for branch 'master'
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+fatal: no upstream configured for branch 'master'
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+fatal: no upstream configured for branch 'master'
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+fatal: no upstream configured for branch 'master'
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+fatal: no upstream configured for branch 'master'
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+fatal: no upstream configured for branch 'master'
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git show --textconv :config/locales/en.yml
+> git ls-files --stage -- /home/adiv/games/config/locales/en.yml
+> git cat-file -s a472d4ba9fefc174b057a48b8ab835ee329e3792
+> git show --textconv :app/views/home/contact.html.haml
+> git ls-files --stage -- /home/adiv/games/app/views/home/contact.html.haml
+> git show --textconv :test/controllers/home_controller_test.rb
+> git ls-files --stage -- /home/adiv/games/test/controllers/home_controller_test.rb
+> git show --textconv :config/locales/en.yml
+> git ls-files --stage -- /home/adiv/games/config/locales/en.yml
+> git cat-file -s a472d4ba9fefc174b057a48b8ab835ee329e3792
+> git show --textconv :test/controllers/home_controller_test.rb
+> git ls-files --stage -- /home/adiv/games/test/controllers/home_controller_test.rb
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+fatal: no upstream configured for branch 'master'
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+fatal: no upstream configured for branch 'master'
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+fatal: no upstream configured for branch 'master'
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+fatal: no upstream configured for branch 'master'
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+fatal: no upstream configured for branch 'master'
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git show --textconv :app/assets/stylesheets/home.css.scss
+> git ls-files --stage -- /home/adiv/games/app/assets/stylesheets/home.css.scss
+> git cat-file -s fe249a329e68a8ef5d1fc93b1eb8109786222f4e
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+fatal: no upstream configured for branch 'master'
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git show --textconv :app/views/home/contact.html.haml
+> git ls-files --stage -- /home/adiv/games/app/views/home/contact.html.haml
+> git show --textconv :app/assets/stylesheets/home.css.scss
+> git ls-files --stage -- /home/adiv/games/app/assets/stylesheets/home.css.scss
+> git cat-file -s fe249a329e68a8ef5d1fc93b1eb8109786222f4e
+> git show --textconv :app/views/home/contact.html.haml
+> git ls-files --stage -- /home/adiv/games/app/views/home/contact.html.haml
+> git show --textconv :app/assets/stylesheets/home.css.scss
+> git ls-files --stage -- /home/adiv/games/app/assets/stylesheets/home.css.scss
+> git cat-file -s fe249a329e68a8ef5d1fc93b1eb8109786222f4e
+> git show --textconv :app/views/home/contact.html.haml
+> git ls-files --stage -- /home/adiv/games/app/views/home/contact.html.haml
+> git show --textconv :app/views/home/home.html.haml
+> git ls-files --stage -- /home/adiv/games/app/views/home/home.html.haml
+> git cat-file -s 406eff3920f7fb0ceca32aa17d1b672db7800544
+> git show --textconv :app/views/home/contact.html.haml
+> git ls-files --stage -- /home/adiv/games/app/views/home/contact.html.haml
+> git show --textconv :app/assets/stylesheets/home.css.scss
+> git ls-files --stage -- /home/adiv/games/app/assets/stylesheets/home.css.scss
+> git cat-file -s fe249a329e68a8ef5d1fc93b1eb8109786222f4e
+> git show --textconv :app/views/home/contact.html.haml
+> git ls-files --stage -- /home/adiv/games/app/views/home/contact.html.haml
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+fatal: no upstream configured for branch 'master'
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+fatal: no upstream configured for branch 'master'
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git show --textconv :app/assets/stylesheets/home.css.scss
+> git ls-files --stage -- /home/adiv/games/app/assets/stylesheets/home.css.scss
+> git cat-file -s fe249a329e68a8ef5d1fc93b1eb8109786222f4e
+> git show --textconv :app/views/home/home.html.haml
+> git ls-files --stage -- /home/adiv/games/app/views/home/home.html.haml
+> git cat-file -s 406eff3920f7fb0ceca32aa17d1b672db7800544
+> git show --textconv :app/views/home/contact.html.haml
+> git ls-files --stage -- /home/adiv/games/app/views/home/contact.html.haml
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+fatal: no upstream configured for branch 'master'
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git show --textconv :app/assets/stylesheets/home.css.scss
+> git ls-files --stage -- /home/adiv/games/app/assets/stylesheets/home.css.scss
+> git cat-file -s fe249a329e68a8ef5d1fc93b1eb8109786222f4e
+> git show --textconv :app/views/home/home.html.haml
+> git ls-files --stage -- /home/adiv/games/app/views/home/home.html.haml
+> git cat-file -s 406eff3920f7fb0ceca32aa17d1b672db7800544
+> git show --textconv :app/assets/stylesheets/home.css.scss
+> git ls-files --stage -- /home/adiv/games/app/assets/stylesheets/home.css.scss
+> git cat-file -s fe249a329e68a8ef5d1fc93b1eb8109786222f4e
+> git show --textconv :app/views/home/home.html.haml
+> git ls-files --stage -- /home/adiv/games/app/views/home/home.html.haml
+> git cat-file -s 406eff3920f7fb0ceca32aa17d1b672db7800544
+> git show --textconv :app/assets/stylesheets/home.css.scss
+> git ls-files --stage -- /home/adiv/games/app/assets/stylesheets/home.css.scss
+> git cat-file -s fe249a329e68a8ef5d1fc93b1eb8109786222f4e
+> git show --textconv :app/views/home/home.html.haml
+> git ls-files --stage -- /home/adiv/games/app/views/home/home.html.haml
+> git cat-file -s 406eff3920f7fb0ceca32aa17d1b672db7800544
+> git show --textconv :app/assets/stylesheets/home.css.scss
+> git ls-files --stage -- /home/adiv/games/app/assets/stylesheets/home.css.scss
+> git cat-file -s fe249a329e68a8ef5d1fc93b1eb8109786222f4e
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+fatal: no upstream configured for branch 'master'
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+fatal: no upstream configured for branch 'master'
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+fatal: no upstream configured for branch 'master'
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+fatal: no upstream configured for branch 'master'
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+fatal: no upstream configured for branch 'master'
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+fatal: no upstream configured for branch 'master'
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git show --textconv :app/views/home/home.html.haml
+> git ls-files --stage -- /home/adiv/games/app/views/home/home.html.haml
+> git cat-file -s 406eff3920f7fb0ceca32aa17d1b672db7800544
+> git show --textconv :app/views/home/contact.html.haml
+> git ls-files --stage -- /home/adiv/games/app/views/home/contact.html.haml
+> git show --textconv :config/locales/en.yml
+> git ls-files --stage -- /home/adiv/games/config/locales/en.yml
+> git cat-file -s a472d4ba9fefc174b057a48b8ab835ee329e3792
+> git show --textconv :config/routes.rb
+> git ls-files --stage -- /home/adiv/games/config/routes.rb
+> git cat-file -s 9b1a9f40d64fa44d5cfb284da084be7e2d4592df
+> git show --textconv :app/assets/stylesheets/home.css.scss
+> git ls-files --stage -- /home/adiv/games/app/assets/stylesheets/home.css.scss
+> git cat-file -s fe249a329e68a8ef5d1fc93b1eb8109786222f4e
+> git show --textconv :app/assets/stylesheets/devise.css.scss
+> git ls-files --stage -- /home/adiv/games/app/assets/stylesheets/devise.css.scss
+> git cat-file -s ef444546b3bb734d8a1eb0bfbbb72e269e866b89
+> git show --textconv :app/assets/stylesheets/home.css.scss
+> git ls-files --stage -- /home/adiv/games/app/assets/stylesheets/home.css.scss
+> git cat-file -s fe249a329e68a8ef5d1fc93b1eb8109786222f4e
+> git show --textconv :app/assets/stylesheets/devise.css.scss
+> git ls-files --stage -- /home/adiv/games/app/assets/stylesheets/devise.css.scss
+> git cat-file -s ef444546b3bb734d8a1eb0bfbbb72e269e866b89
+> git show --textconv :app/assets/stylesheets/scaffolds.scss
+> git ls-files --stage -- /home/adiv/games/app/assets/stylesheets/scaffolds.scss
+> git cat-file -s 604518803244292045a6be13bcf02f0803990570
+> git show --textconv :app/assets/stylesheets/home.css.scss
+> git ls-files --stage -- /home/adiv/games/app/assets/stylesheets/home.css.scss
+> git cat-file -s fe249a329e68a8ef5d1fc93b1eb8109786222f4e
+> git show --textconv :app/controllers/home_controller.rb
+> git ls-files --stage -- /home/adiv/games/app/controllers/home_controller.rb
+> git cat-file -s 0d3475e91942fd046d4613ce5ad06f1f263481a4
+> git show --textconv :config/locales/en.yml
+> git ls-files --stage -- /home/adiv/games/config/locales/en.yml
+> git cat-file -s a472d4ba9fefc174b057a48b8ab835ee329e3792
+> git show --textconv :app/views/layouts/application.html.haml
+> git ls-files --stage -- /home/adiv/games/app/views/layouts/application.html.haml
+> git cat-file -s 20cd7cf9283e9788983cbf6d6a3f757c9da44aff
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+fatal: no upstream configured for branch 'master'
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git show --textconv :test/controllers/home_controller_test.rb
+> git ls-files --stage -- /home/adiv/games/test/controllers/home_controller_test.rb
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+fatal: no upstream configured for branch 'master'
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+fatal: no upstream configured for branch 'master'
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+fatal: no upstream configured for branch 'master'
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+fatal: no upstream configured for branch 'master'
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git show --textconv :config/locales/en.yml
+> git ls-files --stage -- /home/adiv/games/config/locales/en.yml
+> git cat-file -s a472d4ba9fefc174b057a48b8ab835ee329e3792
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+fatal: no upstream configured for branch 'master'
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git show --textconv :test/controllers/home_controller_test.rb
+> git ls-files --stage -- /home/adiv/games/test/controllers/home_controller_test.rb
+> git show --textconv :config/locales/en.yml
+> git ls-files --stage -- /home/adiv/games/config/locales/en.yml
+> git cat-file -s a472d4ba9fefc174b057a48b8ab835ee329e3792
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+fatal: no upstream configured for branch 'master'
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git show --textconv :app/views/home/home.html.haml
+> git ls-files --stage -- /home/adiv/games/app/views/home/home.html.haml
+> git cat-file -s 406eff3920f7fb0ceca32aa17d1b672db7800544
+> git show --textconv :config/locales/en.yml
+> git ls-files --stage -- /home/adiv/games/config/locales/en.yml
+> git cat-file -s a472d4ba9fefc174b057a48b8ab835ee329e3792
+> git show --textconv :test/controllers/home_controller_test.rb
+> git ls-files --stage -- /home/adiv/games/test/controllers/home_controller_test.rb
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+fatal: no upstream configured for branch 'master'
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+fatal: no upstream configured for branch 'master'
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git show --textconv :app/assets/stylesheets/devise.css.scss
+> git ls-files --stage -- /home/adiv/games/app/assets/stylesheets/devise.css.scss
+> git cat-file -s ef444546b3bb734d8a1eb0bfbbb72e269e866b89
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+fatal: no upstream configured for branch 'master'
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git show --textconv :app/assets/stylesheets/users.css.scss
+> git ls-files --stage -- /home/adiv/games/app/assets/stylesheets/users.css.scss
+> git check-ignore -v -z --stdin
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+fatal: no upstream configured for branch 'master'
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+fatal: no upstream configured for branch 'master'
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+fatal: no upstream configured for branch 'master'
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+fatal: no upstream configured for branch 'master'
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+fatal: no upstream configured for branch 'master'
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+fatal: no upstream configured for branch 'master'
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git show --textconv :app/views/users/index.html.haml
+> git ls-files --stage -- /home/adiv/games/app/views/users/index.html.haml
+> git cat-file -s ac1e3fc5d494abfd744fa465e30c88dbf8d88374
+> git check-ignore -v -z --stdin
+> git show --textconv :app/views/devise/registrations/new.html.erb
+> git ls-files --stage -- /home/adiv/games/app/views/devise/registrations/new.html.erb
+> git cat-file -s bf8777e4a2b844af9f76dbf6294c29fd4ec418f5
+> git show --textconv :app/assets/stylesheets/users.css.scss
+> git ls-files --stage -- /home/adiv/games/app/assets/stylesheets/users.css.scss
+> git show --textconv :app/views/devise/registrations/new.html.erb
+> git ls-files --stage -- /home/adiv/games/app/views/devise/registrations/new.html.erb
+> git cat-file -s bf8777e4a2b844af9f76dbf6294c29fd4ec418f5
+> git show --textconv :app/assets/stylesheets/users.css.scss
+> git ls-files --stage -- /home/adiv/games/app/assets/stylesheets/users.css.scss
+> git show --textconv :app/views/devise/registrations/new.html.erb
+> git ls-files --stage -- /home/adiv/games/app/views/devise/registrations/new.html.erb
+> git cat-file -s bf8777e4a2b844af9f76dbf6294c29fd4ec418f5
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+fatal: no upstream configured for branch 'master'
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git show --textconv :app/assets/stylesheets/home.css.scss
+> git ls-files --stage -- /home/adiv/games/app/assets/stylesheets/home.css.scss
+> git cat-file -s fe249a329e68a8ef5d1fc93b1eb8109786222f4e
+> git show --textconv :app/views/devise/registrations/new.html.erb
+> git ls-files --stage -- /home/adiv/games/app/views/devise/registrations/new.html.erb
+> git cat-file -s bf8777e4a2b844af9f76dbf6294c29fd4ec418f5
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+fatal: no upstream configured for branch 'master'
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+fatal: no upstream configured for branch 'master'
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+fatal: no upstream configured for branch 'master'
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+fatal: no upstream configured for branch 'master'
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+fatal: no upstream configured for branch 'master'
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+fatal: no upstream configured for branch 'master'
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+fatal: no upstream configured for branch 'master'
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+fatal: no upstream configured for branch 'master'
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+fatal: no upstream configured for branch 'master'
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+fatal: no upstream configured for branch 'master'
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+fatal: no upstream configured for branch 'master'
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git show --textconv :app/views/home/contact.html.haml
+> git ls-files --stage -- /home/adiv/games/app/views/home/contact.html.haml
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+fatal: no upstream configured for branch 'master'
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git show --textconv :app/assets/stylesheets/users.css.scss
+> git ls-files --stage -- /home/adiv/games/app/assets/stylesheets/users.css.scss
+> git show --textconv :app/views/devise/registrations/new.html.erb
+> git ls-files --stage -- /home/adiv/games/app/views/devise/registrations/new.html.erb
+> git cat-file -s bf8777e4a2b844af9f76dbf6294c29fd4ec418f5
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+fatal: no upstream configured for branch 'master'
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git show --textconv :app/views/home/contact.html.haml
+> git ls-files --stage -- /home/adiv/games/app/views/home/contact.html.haml
+> git show --textconv :app/assets/stylesheets/users.css.scss
+> git ls-files --stage -- /home/adiv/games/app/assets/stylesheets/users.css.scss
+> git show --textconv :app/assets/stylesheets/home.css.scss
+> git ls-files --stage -- /home/adiv/games/app/assets/stylesheets/home.css.scss
+> git cat-file -s fe249a329e68a8ef5d1fc93b1eb8109786222f4e
+> git show --textconv :app/assets/stylesheets/users.css.scss
+> git ls-files --stage -- /home/adiv/games/app/assets/stylesheets/users.css.scss
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+fatal: no upstream configured for branch 'master'
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git show --textconv :app/assets/stylesheets/home.css.scss
+> git ls-files --stage -- /home/adiv/games/app/assets/stylesheets/home.css.scss
+> git cat-file -s fe249a329e68a8ef5d1fc93b1eb8109786222f4e
+> git show --textconv :app/assets/stylesheets/users.css.scss
+> git ls-files --stage -- /home/adiv/games/app/assets/stylesheets/users.css.scss
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+fatal: no upstream configured for branch 'master'
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+fatal: no upstream configured for branch 'master'
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git show --textconv :app/views/devise/registrations/new.html.erb
+> git ls-files --stage -- /home/adiv/games/app/views/devise/registrations/new.html.erb
+> git cat-file -s bf8777e4a2b844af9f76dbf6294c29fd4ec418f5
+> git show --textconv :app/assets/stylesheets/users.css.scss
+> git ls-files --stage -- /home/adiv/games/app/assets/stylesheets/users.css.scss
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+fatal: no upstream configured for branch 'master'
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+fatal: no upstream configured for branch 'master'
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+fatal: no upstream configured for branch 'master'
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+fatal: no upstream configured for branch 'master'
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+fatal: no upstream configured for branch 'master'
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git show --textconv :app/views/devise/registrations/new.html.erb
+> git ls-files --stage -- /home/adiv/games/app/views/devise/registrations/new.html.erb
+> git cat-file -s bf8777e4a2b844af9f76dbf6294c29fd4ec418f5
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+fatal: no upstream configured for branch 'master'
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git show --textconv :app/assets/stylesheets/users.css.scss
+> git ls-files --stage -- /home/adiv/games/app/assets/stylesheets/users.css.scss
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+fatal: no upstream configured for branch 'master'
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+fatal: no upstream configured for branch 'master'
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git show --textconv :app/views/devise/registrations/new.html.erb
+> git ls-files --stage -- /home/adiv/games/app/views/devise/registrations/new.html.erb
+> git cat-file -s bf8777e4a2b844af9f76dbf6294c29fd4ec418f5
+> git show --textconv :app/assets/stylesheets/users.css.scss
+> git ls-files --stage -- /home/adiv/games/app/assets/stylesheets/users.css.scss
+> git show --textconv :app/views/devise/registrations/new.html.erb
+> git ls-files --stage -- /home/adiv/games/app/views/devise/registrations/new.html.erb
+> git cat-file -s bf8777e4a2b844af9f76dbf6294c29fd4ec418f5
+> git show --textconv :app/assets/stylesheets/users.css.scss
+> git ls-files --stage -- /home/adiv/games/app/assets/stylesheets/users.css.scss
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+fatal: no upstream configured for branch 'master'
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+fatal: no upstream configured for branch 'master'
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git show --textconv :app/views/devise/registrations/new.html.erb
+> git ls-files --stage -- /home/adiv/games/app/views/devise/registrations/new.html.erb
+> git cat-file -s bf8777e4a2b844af9f76dbf6294c29fd4ec418f5
+> git show --textconv :app/assets/stylesheets/home.css.scss
+> git ls-files --stage -- /home/adiv/games/app/assets/stylesheets/home.css.scss
+> git cat-file -s fe249a329e68a8ef5d1fc93b1eb8109786222f4e
+> git show --textconv :app/assets/stylesheets/users.css.scss
+> git ls-files --stage -- /home/adiv/games/app/assets/stylesheets/users.css.scss
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+fatal: no upstream configured for branch 'master'
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+fatal: no upstream configured for branch 'master'
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+fatal: no upstream configured for branch 'master'
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+fatal: no upstream configured for branch 'master'
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+fatal: no upstream configured for branch 'master'
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+fatal: no upstream configured for branch 'master'
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+fatal: no upstream configured for branch 'master'
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git show --textconv :app/views/devise/registrations/new.html.erb
+> git ls-files --stage -- /home/adiv/games/app/views/devise/registrations/new.html.erb
+> git cat-file -s bf8777e4a2b844af9f76dbf6294c29fd4ec418f5
+> git show --textconv :app/assets/stylesheets/users.css.scss
+> git ls-files --stage -- /home/adiv/games/app/assets/stylesheets/users.css.scss
+> git show --textconv :app/views/devise/registrations/new.html.erb
+> git ls-files --stage -- /home/adiv/games/app/views/devise/registrations/new.html.erb
+> git cat-file -s bf8777e4a2b844af9f76dbf6294c29fd4ec418f5
+> git show --textconv :app/assets/stylesheets/users.css.scss
+> git ls-files --stage -- /home/adiv/games/app/assets/stylesheets/users.css.scss
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+fatal: no upstream configured for branch 'master'
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+fatal: no upstream configured for branch 'master'
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+fatal: no upstream configured for branch 'master'
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+fatal: no upstream configured for branch 'master'
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+fatal: no upstream configured for branch 'master'
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+fatal: no upstream configured for branch 'master'
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git show --textconv :app/views/devise/registrations/new.html.erb
+> git ls-files --stage -- /home/adiv/games/app/views/devise/registrations/new.html.erb
+> git cat-file -s bf8777e4a2b844af9f76dbf6294c29fd4ec418f5
+> git show --textconv :app/views/devise/shared/_links.html.erb
+> git ls-files --stage -- /home/adiv/games/app/views/devise/shared/_links.html.erb
+> git cat-file -s 084af701c69150d4234d0c64d81415a8f9ba763a
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+fatal: no upstream configured for branch 'master'
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git show --textconv :app/views/devise/registrations/edit.html.erb
+> git ls-files --stage -- /home/adiv/games/app/views/devise/registrations/edit.html.erb
+> git cat-file -s 38d95b85a8a2eef7a2940094a3a5f624a607464c
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+fatal: no upstream configured for branch 'master'
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git show --textconv :app/views/devise/sessions/new.html.erb
+> git ls-files --stage -- /home/adiv/games/app/views/devise/sessions/new.html.erb
+> git cat-file -s 5ede96489dea7f622fa0302378cdb57518078b1b
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+fatal: no upstream configured for branch 'master'
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+fatal: no upstream configured for branch 'master'
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+fatal: no upstream configured for branch 'master'
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+fatal: no upstream configured for branch 'master'
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+fatal: no upstream configured for branch 'master'
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+fatal: no upstream configured for branch 'master'
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+fatal: no upstream configured for branch 'master'
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+fatal: no upstream configured for branch 'master'
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+fatal: no upstream configured for branch 'master'
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+fatal: no upstream configured for branch 'master'
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+fatal: no upstream configured for branch 'master'
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+fatal: no upstream configured for branch 'master'
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+fatal: no upstream configured for branch 'master'
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+fatal: no upstream configured for branch 'master'
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git show --textconv :app/assets/stylesheets/users.css.scss
+> git ls-files --stage -- /home/adiv/games/app/assets/stylesheets/users.css.scss
+> git show --textconv :app/views/devise/sessions/new.html.erb
+> git ls-files --stage -- /home/adiv/games/app/views/devise/sessions/new.html.erb
+> git cat-file -s 5ede96489dea7f622fa0302378cdb57518078b1b
+> git show --textconv :app/views/devise/registrations/new.html.erb
+> git ls-files --stage -- /home/adiv/games/app/views/devise/registrations/new.html.erb
+> git cat-file -s bf8777e4a2b844af9f76dbf6294c29fd4ec418f5
+> git show --textconv :app/assets/stylesheets/users.css.scss
+> git ls-files --stage -- /home/adiv/games/app/assets/stylesheets/users.css.scss
+> git show --textconv :app/views/devise/shared/_links.html.erb
+> git ls-files --stage -- /home/adiv/games/app/views/devise/shared/_links.html.erb
+> git cat-file -s 084af701c69150d4234d0c64d81415a8f9ba763a
+> git show --textconv :app/views/devise/sessions/new.html.erb
+> git ls-files --stage -- /home/adiv/games/app/views/devise/sessions/new.html.erb
+> git cat-file -s 5ede96489dea7f622fa0302378cdb57518078b1b
+> git show --textconv :app/assets/stylesheets/users.css.scss
+> git ls-files --stage -- /home/adiv/games/app/assets/stylesheets/users.css.scss
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+fatal: no upstream configured for branch 'master'
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+fatal: no upstream configured for branch 'master'
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git show --textconv :app/views/devise/sessions/new.html.erb
+> git ls-files --stage -- /home/adiv/games/app/views/devise/sessions/new.html.erb
+> git rev-parse --symbolic-full-name master@{u}
+> git cat-file -s 5ede96489dea7f622fa0302378cdb57518078b1b
+fatal: no upstream configured for branch 'master'
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+fatal: no upstream configured for branch 'master'
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+fatal: no upstream configured for branch 'master'
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git show --textconv :app/assets/stylesheets/home.css.scss
+> git ls-files --stage -- /home/adiv/games/app/assets/stylesheets/home.css.scss
+> git cat-file -s fe249a329e68a8ef5d1fc93b1eb8109786222f4e
+> git show --textconv :app/assets/stylesheets/users.css.scss
+> git ls-files --stage -- /home/adiv/games/app/assets/stylesheets/users.css.scss
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+fatal: no upstream configured for branch 'master'
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+fatal: no upstream configured for branch 'master'
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git show --textconv :app/views/devise/registrations/new.html.erb
+> git ls-files --stage -- /home/adiv/games/app/views/devise/registrations/new.html.erb
+> git cat-file -s bf8777e4a2b844af9f76dbf6294c29fd4ec418f5
+> git show --textconv :app/views/home/home.html.haml
+> git ls-files --stage -- /home/adiv/games/app/views/home/home.html.haml
+> git cat-file -s 406eff3920f7fb0ceca32aa17d1b672db7800544
+> git show --textconv :app/views/devise/sessions/new.html.erb
+> git ls-files --stage -- /home/adiv/games/app/views/devise/sessions/new.html.erb
+> git cat-file -s 5ede96489dea7f622fa0302378cdb57518078b1b
+> git show --textconv :app/assets/stylesheets/users.css.scss
+> git ls-files --stage -- /home/adiv/games/app/assets/stylesheets/users.css.scss
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+fatal: no upstream configured for branch 'master'
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+fatal: no upstream configured for branch 'master'
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+fatal: no upstream configured for branch 'master'
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git check-ignore -v -z --stdin
+> git show --textconv :app/views/devise/confirmations/new.html.erb
+> git ls-files --stage -- /home/adiv/games/app/views/devise/confirmations/new.html.erb
+> git cat-file -s b12dd0cbeb01b541fee181ba59c10e6e64cffad4
+> git check-ignore -v -z --stdin
+> git show --textconv :app/views/devise/mailer/confirmation_instructions.html.erb
+> git ls-files --stage -- /home/adiv/games/app/views/devise/mailer/confirmation_instructions.html.erb
+> git cat-file -s dc55f64f69e2541d12e6ffd6e3f4a413e8b828b2
+> git show --textconv :app/views/devise/mailer/password_change.html.erb
+> git ls-files --stage -- /home/adiv/games/app/views/devise/mailer/password_change.html.erb
+> git cat-file -s b41daf476a35f81702a954445f624b98e15b54f1
+> git show --textconv :app/views/devise/mailer/email_changed.html.erb
+> git ls-files --stage -- /home/adiv/games/app/views/devise/mailer/email_changed.html.erb
+> git cat-file -s 32f4ba8038d81c16f86eab2262a761f56ef656c9
+> git show --textconv :app/views/devise/mailer/password_change.html.erb
+> git ls-files --stage -- /home/adiv/games/app/views/devise/mailer/password_change.html.erb
+> git cat-file -s b41daf476a35f81702a954445f624b98e15b54f1
+> git show --textconv :app/views/devise/mailer/reset_password_instructions.html.erb
+> git ls-files --stage -- /home/adiv/games/app/views/devise/mailer/reset_password_instructions.html.erb
+> git cat-file -s f667dc12fe34929983021920c39f4ca061c4fd4f
+> git show --textconv :app/views/devise/mailer/unlock_instructions.html.erb
+> git ls-files --stage -- /home/adiv/games/app/views/devise/mailer/unlock_instructions.html.erb
+> git cat-file -s 41e148bf2ac2d8b3f108e15c45f8a2e75fb0b07e
+> git check-ignore -v -z --stdin
+> git show --textconv :app/views/devise/passwords/edit.html.erb
+> git ls-files --stage -- /home/adiv/games/app/views/devise/passwords/edit.html.erb
+> git cat-file -s 5fbb9ff0a79a26d84fe8e7a53656ad728ae4c54d
+> git show --textconv :app/views/devise/passwords/new.html.erb
+> git ls-files --stage -- /home/adiv/games/app/views/devise/passwords/new.html.erb
+> git cat-file -s 9b486b81b931dfc8de6f010e9736c8a506dd60bf
+> git show --textconv :app/views/devise/registrations/edit.html.erb
+> git ls-files --stage -- /home/adiv/games/app/views/devise/registrations/edit.html.erb
+> git cat-file -s 38d95b85a8a2eef7a2940094a3a5f624a607464c
+> git show --textconv :app/views/devise/registrations/new.html.erb
+> git ls-files --stage -- /home/adiv/games/app/views/devise/registrations/new.html.erb
+> git cat-file -s bf8777e4a2b844af9f76dbf6294c29fd4ec418f5
+> git show --textconv :app/views/devise/shared/_error_messages.html.erb
+> git ls-files --stage -- /home/adiv/games/app/views/devise/shared/_error_messages.html.erb
+> git cat-file -s ba7ab887013255a06523bdee4d19189cb5b59b3c
+> git show --textconv :app/views/devise/sessions/new.html.erb
+> git ls-files --stage -- /home/adiv/games/app/views/devise/sessions/new.html.erb
+> git cat-file -s 5ede96489dea7f622fa0302378cdb57518078b1b
+> git show --textconv :app/views/devise/shared/_error_messages.html.erb
+> git ls-files --stage -- /home/adiv/games/app/views/devise/shared/_error_messages.html.erb
+> git cat-file -s ba7ab887013255a06523bdee4d19189cb5b59b3c
+> git show --textconv :app/views/devise/shared/_links.html.erb
+> git ls-files --stage -- /home/adiv/games/app/views/devise/shared/_links.html.erb
+> git cat-file -s 084af701c69150d4234d0c64d81415a8f9ba763a
+> git check-ignore -v -z --stdin
+> git show --textconv :app/views/devise/unlocks/new.html.erb
+> git ls-files --stage -- /home/adiv/games/app/views/devise/unlocks/new.html.erb
+> git cat-file -s ffc34de8d154c48c5d6769a9805781cadf629918
+> git show --textconv :app/views/devise/shared/_links.html.erb
+> git ls-files --stage -- /home/adiv/games/app/views/devise/shared/_links.html.erb
+> git cat-file -s 084af701c69150d4234d0c64d81415a8f9ba763a
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+fatal: no upstream configured for branch 'master'
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git show --textconv :app/views/devise/shared/_error_messages.html.erb
+> git ls-files --stage -- /home/adiv/games/app/views/devise/shared/_error_messages.html.erb
+> git cat-file -s ba7ab887013255a06523bdee4d19189cb5b59b3c
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+fatal: no upstream configured for branch 'master'
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git show --textconv :config/locales/devise.en.yml
+> git ls-files --stage -- /home/adiv/games/config/locales/devise.en.yml
+> git cat-file -s ab1f07060dec61ae808c320767604f7614cf1122
+> git show --textconv :config/initializers/devise.rb
+> git ls-files --stage -- /home/adiv/games/config/initializers/devise.rb
+> git cat-file -s d271b2b45a3b940d437f47acba1d8662f2383aeb
+> git show --textconv :config/locales/devise.en.yml
+> git ls-files --stage -- /home/adiv/games/config/locales/devise.en.yml
+> git cat-file -s ab1f07060dec61ae808c320767604f7614cf1122
+> git show --textconv :app/views/devise/shared/_error_messages.html.erb
+> git ls-files --stage -- /home/adiv/games/app/views/devise/shared/_error_messages.html.erb
+> git cat-file -s ba7ab887013255a06523bdee4d19189cb5b59b3c
+> git log --format=%H%n%aN%n%aE%n%at%n%ct%n%P%n%B -z -n21 -- /home/adiv/games/app/views/devise/shared/_error_messages.html.erb
+> git show --textconv :app/views/devise/shared/_links.html.erb
+> git ls-files --stage -- /home/adiv/games/app/views/devise/shared/_links.html.erb
+> git cat-file -s 084af701c69150d4234d0c64d81415a8f9ba763a
+> git show --textconv :app/views/devise/unlocks/new.html.erb
+> git ls-files --stage -- /home/adiv/games/app/views/devise/unlocks/new.html.erb
+> git cat-file -s ffc34de8d154c48c5d6769a9805781cadf629918
+> git show --textconv :app/views/devise/mailer/confirmation_instructions.html.erb
+> git ls-files --stage -- /home/adiv/games/app/views/devise/mailer/confirmation_instructions.html.erb
+> git cat-file -s dc55f64f69e2541d12e6ffd6e3f4a413e8b828b2
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+fatal: no upstream configured for branch 'master'
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git show --textconv :app/views/devise/registrations/edit.html.erb
+> git ls-files --stage -- /home/adiv/games/app/views/devise/registrations/edit.html.erb
+> git cat-file -s 38d95b85a8a2eef7a2940094a3a5f624a607464c
+> git show --textconv :app/views/devise/sessions/new.html.erb
+> git ls-files --stage -- /home/adiv/games/app/views/devise/sessions/new.html.erb
+> git cat-file -s 5ede96489dea7f622fa0302378cdb57518078b1b
+> git show --textconv :app/views/devise/shared/_error_messages.html.erb
+> git ls-files --stage -- /home/adiv/games/app/views/devise/shared/_error_messages.html.erb
+> git cat-file -s ba7ab887013255a06523bdee4d19189cb5b59b3c
+> git show --textconv :app/views/devise/shared/_links.html.erb
+> git ls-files --stage -- /home/adiv/games/app/views/devise/shared/_links.html.erb
+> git cat-file -s 084af701c69150d4234d0c64d81415a8f9ba763a
+> git show --textconv :app/views/devise/shared/_error_messages.html.erb
+> git ls-files --stage -- /home/adiv/games/app/views/devise/shared/_error_messages.html.erb
+> git cat-file -s ba7ab887013255a06523bdee4d19189cb5b59b3c
+> git show --textconv :app/views/devise/unlocks/new.html.erb
+> git ls-files --stage -- /home/adiv/games/app/views/devise/unlocks/new.html.erb
+> git cat-file -s ffc34de8d154c48c5d6769a9805781cadf629918
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+fatal: no upstream configured for branch 'master'
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+fatal: no upstream configured for branch 'master'
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git show --textconv :app/views/devise/registrations/new.html.erb
+> git ls-files --stage -- /home/adiv/games/app/views/devise/registrations/new.html.erb
+> git cat-file -s bf8777e4a2b844af9f76dbf6294c29fd4ec418f5
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+fatal: no upstream configured for branch 'master'
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+fatal: no upstream configured for branch 'master'
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+fatal: no upstream configured for branch 'master'
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git show --textconv :db/migrate/20201130200541_add_username_to_users.rb
+> git ls-files --stage -- /home/adiv/games/db/migrate/20201130200541_add_username_to_users.rb
+> git cat-file -s fed95d0e61ff88273a92054c738b6924e59a6919
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+fatal: no upstream configured for branch 'master'
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+fatal: no upstream configured for branch 'master'
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+fatal: no upstream configured for branch 'master'
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git show --textconv :db/schema.rb
+> git ls-files --stage -- /home/adiv/games/db/schema.rb
+> git cat-file -s 5f7743757498109c10165f7931d551fcdf6e12a9
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+fatal: no upstream configured for branch 'master'
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git show --textconv :config/initializers/devise.rb
+> git ls-files --stage -- /home/adiv/games/config/initializers/devise.rb
+> git cat-file -s d271b2b45a3b940d437f47acba1d8662f2383aeb
+> git show --textconv :db/schema.rb
+> git ls-files --stage -- /home/adiv/games/db/schema.rb
+> git cat-file -s 5f7743757498109c10165f7931d551fcdf6e12a9
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+fatal: no upstream configured for branch 'master'
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git show --textconv :db/migrate/20201206165634_add_index_to_games.rb
+> git ls-files --stage -- /home/adiv/games/db/migrate/20201206165634_add_index_to_games.rb
+> git cat-file -s 907f61a2c278f30e6093f9cc675cdc381f882927
+> git show --textconv :db/migrate/20201206165343_create_games.rb
+> git ls-files --stage -- /home/adiv/games/db/migrate/20201206165343_create_games.rb
+> git cat-file -s 3cbfb6f6af5313a706d8599717df672995b433a7
+> git show --textconv :db/migrate/20201130200541_add_username_to_users.rb
+> git ls-files --stage -- /home/adiv/games/db/migrate/20201130200541_add_username_to_users.rb
+> git cat-file -s fed95d0e61ff88273a92054c738b6924e59a6919
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+fatal: no upstream configured for branch 'master'
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+fatal: no upstream configured for branch 'master'
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+fatal: no upstream configured for branch 'master'
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git show --textconv :app/views/devise/mailer/confirmation_instructions.html.erb
+> git ls-files --stage -- /home/adiv/games/app/views/devise/mailer/confirmation_instructions.html.erb
+> git cat-file -s dc55f64f69e2541d12e6ffd6e3f4a413e8b828b2
+> git show --textconv :app/views/devise/registrations/edit.html.erb
+> git ls-files --stage -- /home/adiv/games/app/views/devise/registrations/edit.html.erb
+> git cat-file -s 38d95b85a8a2eef7a2940094a3a5f624a607464c
+> git show --textconv :app/views/devise/sessions/new.html.erb
+> git ls-files --stage -- /home/adiv/games/app/views/devise/sessions/new.html.erb
+> git cat-file -s 5ede96489dea7f622fa0302378cdb57518078b1b
+> git check-ignore -v -z --stdin
+> git check-ignore -v -z --stdin
+> git show --textconv :app/helpers/devise_helper.rb
+> git ls-files --stage -- /home/adiv/games/app/helpers/devise_helper.rb
+> git check-ignore -v -z --stdin
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+fatal: no upstream configured for branch 'master'
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+fatal: no upstream configured for branch 'master'
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+fatal: no upstream configured for branch 'master'
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+fatal: no upstream configured for branch 'master'
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+fatal: no upstream configured for branch 'master'
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+fatal: no upstream configured for branch 'master'
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+fatal: no upstream configured for branch 'master'
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+fatal: no upstream configured for branch 'master'
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+fatal: no upstream configured for branch 'master'
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+fatal: no upstream configured for branch 'master'
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+fatal: no upstream configured for branch 'master'
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git check-ignore -v -z --stdin
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+fatal: no upstream configured for branch 'master'
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git check-ignore -v -z --stdin
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+fatal: no upstream configured for branch 'master'
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git show --textconv :app/controllers/users/confirmations_controller.rb
+> git ls-files --stage -- /home/adiv/games/app/controllers/users/confirmations_controller.rb
+> git show --textconv :app/controllers/users/sessions_controller.rb
+> git ls-files --stage -- /home/adiv/games/app/controllers/users/sessions_controller.rb
+> git show --textconv :app/controllers/users/registrations_controller.rb
+> git ls-files --stage -- /home/adiv/games/app/controllers/users/registrations_controller.rb
+> git show --textconv :app/controllers/users/confirmations_controller.rb
+> git ls-files --stage -- /home/adiv/games/app/controllers/users/confirmations_controller.rb
+> git show --textconv :app/controllers/users/omniauth_callbacks_controller.rb
+> git ls-files --stage -- /home/adiv/games/app/controllers/users/omniauth_callbacks_controller.rb
+> git show --textconv :app/controllers/users/passwords_controller.rb
+> git ls-files --stage -- /home/adiv/games/app/controllers/users/passwords_controller.rb
+> git show --textconv :app/controllers/users/registrations_controller.rb
+> git ls-files --stage -- /home/adiv/games/app/controllers/users/registrations_controller.rb
+> git show --textconv :app/controllers/users/sessions_controller.rb
+> git ls-files --stage -- /home/adiv/games/app/controllers/users/sessions_controller.rb
+> git show --textconv :app/controllers/users/unlocks_controller.rb
+> git ls-files --stage -- /home/adiv/games/app/controllers/users/unlocks_controller.rb
+> git show --textconv :app/controllers/users/registrations_controller.rb
+> git ls-files --stage -- /home/adiv/games/app/controllers/users/registrations_controller.rb
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+fatal: no upstream configured for branch 'master'
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+fatal: no upstream configured for branch 'master'
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+fatal: no upstream configured for branch 'master'
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+fatal: no upstream configured for branch 'master'
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git show --textconv :config/locales/devise.en.yml
+> git ls-files --stage -- /home/adiv/games/config/locales/devise.en.yml
+> git cat-file -s ab1f07060dec61ae808c320767604f7614cf1122
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+fatal: no upstream configured for branch 'master'
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+fatal: no upstream configured for branch 'master'
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+fatal: no upstream configured for branch 'master'
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git show --textconv :app/controllers/application_controller.rb
+> git ls-files --stage -- /home/adiv/games/app/controllers/application_controller.rb
+> git cat-file -s ea09ce8dabef31467a9c7b28385c1a41e182fed3
+> git show --textconv :config/locales/devise.en.yml
+> git ls-files --stage -- /home/adiv/games/config/locales/devise.en.yml
+> git cat-file -s ab1f07060dec61ae808c320767604f7614cf1122
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+fatal: no upstream configured for branch 'master'
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git show --textconv :db/migrate/20201130200541_add_username_to_users.rb
+> git ls-files --stage -- /home/adiv/games/db/migrate/20201130200541_add_username_to_users.rb
+> git cat-file -s fed95d0e61ff88273a92054c738b6924e59a6919
+> git show --textconv :app/controllers/application_controller.rb
+> git ls-files --stage -- /home/adiv/games/app/controllers/application_controller.rb
+> git cat-file -s ea09ce8dabef31467a9c7b28385c1a41e182fed3
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+fatal: no upstream configured for branch 'master'
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git show --textconv :app/controllers/home_controller.rb
+> git ls-files --stage -- /home/adiv/games/app/controllers/home_controller.rb
+> git cat-file -s 0d3475e91942fd046d4613ce5ad06f1f263481a4
+> git show --textconv :app/helpers/devise_helper.rb
+> git ls-files --stage -- /home/adiv/games/app/helpers/devise_helper.rb
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+fatal: no upstream configured for branch 'master'
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git show --textconv :app/controllers/users/registrations_controller.rb
+> git ls-files --stage -- /home/adiv/games/app/controllers/users/registrations_controller.rb
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+fatal: no upstream configured for branch 'master'
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+fatal: no upstream configured for branch 'master'
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+fatal: no upstream configured for branch 'master'
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git show --textconv :app/views/devise/unlocks/new.html.erb
+> git ls-files --stage -- /home/adiv/games/app/views/devise/unlocks/new.html.erb
+> git cat-file -s ffc34de8d154c48c5d6769a9805781cadf629918
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+fatal: no upstream configured for branch 'master'
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git show --textconv :app/controllers/users/registrations_controller.rb
+> git ls-files --stage -- /home/adiv/games/app/controllers/users/registrations_controller.rb
+> git show --textconv :app/views/devise/registrations/new.html.erb
+> git ls-files --stage -- /home/adiv/games/app/views/devise/registrations/new.html.erb
+> git cat-file -s bf8777e4a2b844af9f76dbf6294c29fd4ec418f5
+> git show --textconv :app/controllers/users/registrations_controller.rb
+> git ls-files --stage -- /home/adiv/games/app/controllers/users/registrations_controller.rb
+> git show --textconv :config/locales/devise.en.yml
+> git ls-files --stage -- /home/adiv/games/config/locales/devise.en.yml
+> git cat-file -s ab1f07060dec61ae808c320767604f7614cf1122
+> git show --textconv :db/migrate/20201130200541_add_username_to_users.rb
+> git ls-files --stage -- /home/adiv/games/db/migrate/20201130200541_add_username_to_users.rb
+> git cat-file -s fed95d0e61ff88273a92054c738b6924e59a6919
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+fatal: no upstream configured for branch 'master'
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git show --textconv :db/migrate/20201130193329_devise_create_users.rb
+> git ls-files --stage -- /home/adiv/games/db/migrate/20201130193329_devise_create_users.rb
+> git cat-file -s e4fe133a93db2fd95c8e87621a9d00a4ee60b277
+> git show --textconv :db/schema.rb
+> git ls-files --stage -- /home/adiv/games/db/schema.rb
+> git cat-file -s 5f7743757498109c10165f7931d551fcdf6e12a9
+> git show --textconv :db/seeds.rb
+> git ls-files --stage -- /home/adiv/games/db/seeds.rb
+> git cat-file -s 1beea2accd7ed91d080b323eef17dba95e95e27f
+> git show --textconv :app/views/users/show.html.haml
+> git ls-files --stage -- /home/adiv/games/app/views/users/show.html.haml
+> git cat-file -s 5bd9721c48dc684463b13dbfe5f5bddddfbb1dd8
+> git show --textconv :app/views/users/index.html.haml
+> git ls-files --stage -- /home/adiv/games/app/views/users/index.html.haml
+> git cat-file -s ac1e3fc5d494abfd744fa465e30c88dbf8d88374
+> git show --textconv :app/views/devise/confirmations/new.html.erb
+> git ls-files --stage -- /home/adiv/games/app/views/devise/confirmations/new.html.erb
+> git cat-file -s b12dd0cbeb01b541fee181ba59c10e6e64cffad4
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+fatal: no upstream configured for branch 'master'
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+fatal: no upstream configured for branch 'master'
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git show --textconv :app/views/devise/mailer/confirmation_instructions.html.erb
+> git ls-files --stage -- /home/adiv/games/app/views/devise/mailer/confirmation_instructions.html.erb
+> git cat-file -s dc55f64f69e2541d12e6ffd6e3f4a413e8b828b2
+> git show --textconv :app/views/devise/confirmations/new.html.erb
+> git ls-files --stage -- /home/adiv/games/app/views/devise/confirmations/new.html.erb
+> git cat-file -s b12dd0cbeb01b541fee181ba59c10e6e64cffad4
+> git show --textconv :app/views/devise/mailer/email_changed.html.erb
+> git ls-files --stage -- /home/adiv/games/app/views/devise/mailer/email_changed.html.erb
+> git cat-file -s 32f4ba8038d81c16f86eab2262a761f56ef656c9
+> git show --textconv :app/views/devise/confirmations/new.html.erb
+> git ls-files --stage -- /home/adiv/games/app/views/devise/confirmations/new.html.erb
+> git cat-file -s b12dd0cbeb01b541fee181ba59c10e6e64cffad4
+> git show --textconv :app/views/devise/mailer/password_change.html.erb
+> git ls-files --stage -- /home/adiv/games/app/views/devise/mailer/password_change.html.erb
+> git cat-file -s b41daf476a35f81702a954445f624b98e15b54f1
+> git show --textconv :app/views/devise/confirmations/new.html.erb
+> git ls-files --stage -- /home/adiv/games/app/views/devise/confirmations/new.html.erb
+> git cat-file -s b12dd0cbeb01b541fee181ba59c10e6e64cffad4
+> git show --textconv :app/views/devise/mailer/reset_password_instructions.html.erb
+> git ls-files --stage -- /home/adiv/games/app/views/devise/mailer/reset_password_instructions.html.erb
+> git cat-file -s f667dc12fe34929983021920c39f4ca061c4fd4f
+> git show --textconv :app/views/devise/confirmations/new.html.erb
+> git ls-files --stage -- /home/adiv/games/app/views/devise/confirmations/new.html.erb
+> git cat-file -s b12dd0cbeb01b541fee181ba59c10e6e64cffad4
+> git show --textconv :app/views/devise/mailer/unlock_instructions.html.erb
+> git ls-files --stage -- /home/adiv/games/app/views/devise/mailer/unlock_instructions.html.erb
+> git cat-file -s 41e148bf2ac2d8b3f108e15c45f8a2e75fb0b07e
+> git show --textconv :app/views/devise/confirmations/new.html.erb
+> git ls-files --stage -- /home/adiv/games/app/views/devise/confirmations/new.html.erb
+> git cat-file -s b12dd0cbeb01b541fee181ba59c10e6e64cffad4
+> git show --textconv :app/views/devise/passwords/edit.html.erb
+> git ls-files --stage -- /home/adiv/games/app/views/devise/passwords/edit.html.erb
+> git cat-file -s 5fbb9ff0a79a26d84fe8e7a53656ad728ae4c54d
+> git show --textconv :app/views/devise/confirmations/new.html.erb
+> git ls-files --stage -- /home/adiv/games/app/views/devise/confirmations/new.html.erb
+> git cat-file -s b12dd0cbeb01b541fee181ba59c10e6e64cffad4
+> git show --textconv :app/views/devise/passwords/new.html.erb
+> git ls-files --stage -- /home/adiv/games/app/views/devise/passwords/new.html.erb
+> git cat-file -s 9b486b81b931dfc8de6f010e9736c8a506dd60bf
+> git show --textconv :app/views/devise/confirmations/new.html.erb
+> git ls-files --stage -- /home/adiv/games/app/views/devise/confirmations/new.html.erb
+> git cat-file -s b12dd0cbeb01b541fee181ba59c10e6e64cffad4
+> git show --textconv :app/controllers/users/registrations_controller.rb
+> git ls-files --stage -- /home/adiv/games/app/controllers/users/registrations_controller.rb
+> git show --textconv :config/locales/devise.en.yml
+> git ls-files --stage -- /home/adiv/games/config/locales/devise.en.yml
+> git cat-file -s ab1f07060dec61ae808c320767604f7614cf1122
+> git show --textconv :app/controllers/users/registrations_controller.rb
+> git ls-files --stage -- /home/adiv/games/app/controllers/users/registrations_controller.rb
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+fatal: no upstream configured for branch 'master'
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+fatal: no upstream configured for branch 'master'
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+fatal: no upstream configured for branch 'master'
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+fatal: no upstream configured for branch 'master'
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+fatal: no upstream configured for branch 'master'
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+fatal: no upstream configured for branch 'master'
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+fatal: no upstream configured for branch 'master'
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+fatal: no upstream configured for branch 'master'
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+fatal: no upstream configured for branch 'master'
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+fatal: no upstream configured for branch 'master'
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+fatal: no upstream configured for branch 'master'
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+fatal: no upstream configured for branch 'master'
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git show --textconv :app/views/layouts/application.html.haml
+> git ls-files --stage -- /home/adiv/games/app/views/layouts/application.html.haml
+> git cat-file -s 20cd7cf9283e9788983cbf6d6a3f757c9da44aff
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+fatal: no upstream configured for branch 'master'
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+fatal: no upstream configured for branch 'master'
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+fatal: no upstream configured for branch 'master'
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+fatal: no upstream configured for branch 'master'
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+fatal: no upstream configured for branch 'master'
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+fatal: no upstream configured for branch 'master'
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+fatal: no upstream configured for branch 'master'
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+fatal: no upstream configured for branch 'master'
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+fatal: no upstream configured for branch 'master'
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+fatal: no upstream configured for branch 'master'
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+fatal: no upstream configured for branch 'master'
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+fatal: no upstream configured for branch 'master'
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+fatal: no upstream configured for branch 'master'
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+fatal: no upstream configured for branch 'master'
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+fatal: no upstream configured for branch 'master'
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git show --textconv :app/controllers/home_controller.rb
+> git ls-files --stage -- /home/adiv/games/app/controllers/home_controller.rb
+> git cat-file -s 0d3475e91942fd046d4613ce5ad06f1f263481a4
+> git show --textconv :app/controllers/users/registrations_controller.rb
+> git ls-files --stage -- /home/adiv/games/app/controllers/users/registrations_controller.rb
+> git show --textconv :app/views/layouts/application.html.haml
+> git ls-files --stage -- /home/adiv/games/app/views/layouts/application.html.haml
+> git cat-file -s 20cd7cf9283e9788983cbf6d6a3f757c9da44aff
+> git show --textconv :app/views/shared/_header.html.haml
+> git ls-files --stage -- /home/adiv/games/app/views/shared/_header.html.haml
+> git cat-file -s f59177d56a42be2ae4319b0f636073efe4f4c3de
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+fatal: no upstream configured for branch 'master'
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git show --textconv :app/views/layouts/application.html.haml
+> git ls-files --stage -- /home/adiv/games/app/views/layouts/application.html.haml
+> git cat-file -s 20cd7cf9283e9788983cbf6d6a3f757c9da44aff
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+fatal: no upstream configured for branch 'master'
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git show --textconv :app/controllers/home_controller.rb
+> git ls-files --stage -- /home/adiv/games/app/controllers/home_controller.rb
+> git cat-file -s 0d3475e91942fd046d4613ce5ad06f1f263481a4
+> git show --textconv :app/controllers/users/registrations_controller.rb
+> git ls-files --stage -- /home/adiv/games/app/controllers/users/registrations_controller.rb
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+fatal: no upstream configured for branch 'master'
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git show --textconv :app/controllers/home_controller.rb
+> git ls-files --stage -- /home/adiv/games/app/controllers/home_controller.rb
+> git cat-file -s 0d3475e91942fd046d4613ce5ad06f1f263481a4
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+fatal: no upstream configured for branch 'master'
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git show --textconv :app/views/layouts/application.html.haml
+> git ls-files --stage -- /home/adiv/games/app/views/layouts/application.html.haml
+> git cat-file -s 20cd7cf9283e9788983cbf6d6a3f757c9da44aff
+> git show --textconv :app/views/shared/_header.html.haml
+> git ls-files --stage -- /home/adiv/games/app/views/shared/_header.html.haml
+> git cat-file -s f59177d56a42be2ae4319b0f636073efe4f4c3de
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+fatal: no upstream configured for branch 'master'
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+fatal: no upstream configured for branch 'master'
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+fatal: no upstream configured for branch 'master'
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+fatal: no upstream configured for branch 'master'
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+fatal: no upstream configured for branch 'master'
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+fatal: no upstream configured for branch 'master'
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+fatal: no upstream configured for branch 'master'
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+fatal: no upstream configured for branch 'master'
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+fatal: no upstream configured for branch 'master'
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+fatal: no upstream configured for branch 'master'
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+fatal: no upstream configured for branch 'master'
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+fatal: no upstream configured for branch 'master'
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git show --textconv :config/locales/en.yml
+> git ls-files --stage -- /home/adiv/games/config/locales/en.yml
+> git cat-file -s a472d4ba9fefc174b057a48b8ab835ee329e3792
+> git show --textconv :app/views/shared/_header.html.haml
+> git ls-files --stage -- /home/adiv/games/app/views/shared/_header.html.haml
+> git cat-file -s f59177d56a42be2ae4319b0f636073efe4f4c3de
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+fatal: no upstream configured for branch 'master'
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+fatal: no upstream configured for branch 'master'
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+fatal: no upstream configured for branch 'master'
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+fatal: no upstream configured for branch 'master'
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+fatal: no upstream configured for branch 'master'
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+fatal: no upstream configured for branch 'master'
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+fatal: no upstream configured for branch 'master'
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git show --textconv :app/views/home/contact.html.haml
+> git ls-files --stage -- /home/adiv/games/app/views/home/contact.html.haml
+> git show --textconv :app/assets/stylesheets/home.css.scss
+> git ls-files --stage -- /home/adiv/games/app/assets/stylesheets/home.css.scss
+> git cat-file -s fe249a329e68a8ef5d1fc93b1eb8109786222f4e
+> git show --textconv :app/views/home/contact.html.haml
+> git ls-files --stage -- /home/adiv/games/app/views/home/contact.html.haml
+> git show --textconv :app/controllers/home_controller.rb
+> git ls-files --stage -- /home/adiv/games/app/controllers/home_controller.rb
+> git cat-file -s 0d3475e91942fd046d4613ce5ad06f1f263481a4
+> git show --textconv :app/views/home/contact.html.haml
+> git ls-files --stage -- /home/adiv/games/app/views/home/contact.html.haml
+> git show --textconv :app/assets/stylesheets/home.css.scss
+> git ls-files --stage -- /home/adiv/games/app/assets/stylesheets/home.css.scss
+> git cat-file -s fe249a329e68a8ef5d1fc93b1eb8109786222f4e
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+fatal: no upstream configured for branch 'master'
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+fatal: no upstream configured for branch 'master'
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+fatal: no upstream configured for branch 'master'
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+fatal: no upstream configured for branch 'master'
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git show --textconv :app/views/home/contact.html.haml
+> git ls-files --stage -- /home/adiv/games/app/views/home/contact.html.haml
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+fatal: no upstream configured for branch 'master'
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git show --textconv :app/assets/stylesheets/home.css.scss
+> git ls-files --stage -- /home/adiv/games/app/assets/stylesheets/home.css.scss
+> git cat-file -s fe249a329e68a8ef5d1fc93b1eb8109786222f4e
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+fatal: no upstream configured for branch 'master'
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+fatal: no upstream configured for branch 'master'
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git show --textconv :app/views/home/contact.html.haml
+> git ls-files --stage -- /home/adiv/games/app/views/home/contact.html.haml
+> git show --textconv :app/assets/stylesheets/home.css.scss
+> git ls-files --stage -- /home/adiv/games/app/assets/stylesheets/home.css.scss
+> git cat-file -s fe249a329e68a8ef5d1fc93b1eb8109786222f4e
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+fatal: no upstream configured for branch 'master'
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+fatal: no upstream configured for branch 'master'
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git show --textconv :app/assets/stylesheets/users.css.scss
+> git ls-files --stage -- /home/adiv/games/app/assets/stylesheets/users.css.scss
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+fatal: no upstream configured for branch 'master'
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git show --textconv :app/assets/stylesheets/home.css.scss
+> git ls-files --stage -- /home/adiv/games/app/assets/stylesheets/home.css.scss
+> git cat-file -s fe249a329e68a8ef5d1fc93b1eb8109786222f4e
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+fatal: no upstream configured for branch 'master'
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+fatal: no upstream configured for branch 'master'
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git show --textconv :app/assets/stylesheets/users.css.scss
+> git ls-files --stage -- /home/adiv/games/app/assets/stylesheets/users.css.scss
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+fatal: no upstream configured for branch 'master'
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git show --textconv :app/assets/stylesheets/home.css.scss
+> git ls-files --stage -- /home/adiv/games/app/assets/stylesheets/home.css.scss
+> git cat-file -s fe249a329e68a8ef5d1fc93b1eb8109786222f4e
+> git show --textconv :app/assets/stylesheets/users.css.scss
+> git ls-files --stage -- /home/adiv/games/app/assets/stylesheets/users.css.scss
+> git show --textconv :app/assets/stylesheets/home.css.scss
+> git ls-files --stage -- /home/adiv/games/app/assets/stylesheets/home.css.scss
+> git cat-file -s fe249a329e68a8ef5d1fc93b1eb8109786222f4e
+> git show --textconv :app/assets/stylesheets/users.css.scss
+> git ls-files --stage -- /home/adiv/games/app/assets/stylesheets/users.css.scss
+> git show --textconv :app/assets/stylesheets/home.css.scss
+> git ls-files --stage -- /home/adiv/games/app/assets/stylesheets/home.css.scss
+> git cat-file -s fe249a329e68a8ef5d1fc93b1eb8109786222f4e
+> git show --textconv :app/assets/stylesheets/users.css.scss
+> git ls-files --stage -- /home/adiv/games/app/assets/stylesheets/users.css.scss
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+fatal: no upstream configured for branch 'master'
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git show --textconv :app/assets/stylesheets/home.css.scss
+> git ls-files --stage -- /home/adiv/games/app/assets/stylesheets/home.css.scss
+> git cat-file -s fe249a329e68a8ef5d1fc93b1eb8109786222f4e
+> git show --textconv :app/assets/stylesheets/users.css.scss
+> git ls-files --stage -- /home/adiv/games/app/assets/stylesheets/users.css.scss
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+fatal: no upstream configured for branch 'master'
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git show --textconv :app/assets/stylesheets/home.css.scss
+> git ls-files --stage -- /home/adiv/games/app/assets/stylesheets/home.css.scss
+> git cat-file -s fe249a329e68a8ef5d1fc93b1eb8109786222f4e
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+fatal: no upstream configured for branch 'master'
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+fatal: no upstream configured for branch 'master'
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+fatal: no upstream configured for branch 'master'
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+fatal: no upstream configured for branch 'master'
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git show --textconv :app/views/home/contact.html.haml
+> git ls-files --stage -- /home/adiv/games/app/views/home/contact.html.haml
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+fatal: no upstream configured for branch 'master'
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+fatal: no upstream configured for branch 'master'
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+fatal: no upstream configured for branch 'master'
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git show --textconv :test/controllers/home_controller_test.rb
+> git ls-files --stage -- /home/adiv/games/test/controllers/home_controller_test.rb
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+fatal: no upstream configured for branch 'master'
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+fatal: no upstream configured for branch 'master'
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+fatal: no upstream configured for branch 'master'
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+fatal: no upstream configured for branch 'master'
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git show --textconv :test/fixtures/users.yml
+> git ls-files --stage -- /home/adiv/games/test/fixtures/users.yml
+> git cat-file -s 80aed36e30b2598726b55a90c65850a8f9aeb609
+> git show --textconv :test/controllers/home_controller_test.rb
+> git ls-files --stage -- /home/adiv/games/test/controllers/home_controller_test.rb
+> git show --textconv :test/fixtures/games.yml
+> git ls-files --stage -- /home/adiv/games/test/fixtures/games.yml
+> git cat-file -s 109e02fe7d495faed1c9b7558b61349c5a1f4188
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+fatal: no upstream configured for branch 'master'
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git show --textconv :test/controllers/home_controller_test.rb
+> git ls-files --stage -- /home/adiv/games/test/controllers/home_controller_test.rb
+> git show --textconv :db/migrate/20201206165343_create_games.rb
+> git ls-files --stage -- /home/adiv/games/db/migrate/20201206165343_create_games.rb
+> git cat-file -s 3cbfb6f6af5313a706d8599717df672995b433a7
+> git show --textconv :db/migrate/20201130193329_devise_create_users.rb
+> git ls-files --stage -- /home/adiv/games/db/migrate/20201130193329_devise_create_users.rb
+> git cat-file -s e4fe133a93db2fd95c8e87621a9d00a4ee60b277
+> git show --textconv :db/migrate/20201130200541_add_username_to_users.rb
+> git ls-files --stage -- /home/adiv/games/db/migrate/20201130200541_add_username_to_users.rb
+> git cat-file -s fed95d0e61ff88273a92054c738b6924e59a6919
+> git show --textconv :db/migrate/20201206165343_create_games.rb
+> git ls-files --stage -- /home/adiv/games/db/migrate/20201206165343_create_games.rb
+> git cat-file -s 3cbfb6f6af5313a706d8599717df672995b433a7
+> git show --textconv :db/migrate/20201130200541_add_username_to_users.rb
+> git ls-files --stage -- /home/adiv/games/db/migrate/20201130200541_add_username_to_users.rb
+> git cat-file -s fed95d0e61ff88273a92054c738b6924e59a6919
+> git show --textconv :db/migrate/20201206165343_create_games.rb
+> git ls-files --stage -- /home/adiv/games/db/migrate/20201206165343_create_games.rb
+> git cat-file -s 3cbfb6f6af5313a706d8599717df672995b433a7
+> git show --textconv :db/migrate/20201206165634_add_index_to_games.rb
+> git ls-files --stage -- /home/adiv/games/db/migrate/20201206165634_add_index_to_games.rb
+> git cat-file -s 907f61a2c278f30e6093f9cc675cdc381f882927
+> git show --textconv :db/migrate/20201206165343_create_games.rb
+> git ls-files --stage -- /home/adiv/games/db/migrate/20201206165343_create_games.rb
+> git cat-file -s 3cbfb6f6af5313a706d8599717df672995b433a7
+> git show --textconv :db/migrate/20201206165634_add_index_to_games.rb
+> git ls-files --stage -- /home/adiv/games/db/migrate/20201206165634_add_index_to_games.rb
+> git cat-file -s 907f61a2c278f30e6093f9cc675cdc381f882927
+> git show --textconv :db/migrate/20201130193329_devise_create_users.rb
+> git ls-files --stage -- /home/adiv/games/db/migrate/20201130193329_devise_create_users.rb
+> git cat-file -s e4fe133a93db2fd95c8e87621a9d00a4ee60b277
+> git show --textconv :db/migrate/20201130200541_add_username_to_users.rb
+> git ls-files --stage -- /home/adiv/games/db/migrate/20201130200541_add_username_to_users.rb
+> git cat-file -s fed95d0e61ff88273a92054c738b6924e59a6919
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+fatal: no upstream configured for branch 'master'
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git show --textconv :app/mailers/application_mailer.rb
+> git ls-files --stage -- /home/adiv/games/app/mailers/application_mailer.rb
+> git cat-file -s 286b2239d139960190594225e0134fe1a5c05370
+> git check-ignore -v -z --stdin
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+fatal: no upstream configured for branch 'master'
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+fatal: no upstream configured for branch 'master'
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+fatal: no upstream configured for branch 'master'
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+fatal: no upstream configured for branch 'master'
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+fatal: no upstream configured for branch 'master'
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+fatal: no upstream configured for branch 'master'
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+fatal: no upstream configured for branch 'master'
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+fatal: no upstream configured for branch 'master'
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git show --textconv :app/mailers/contact_mailer.rb
+> git ls-files --stage -- /home/adiv/games/app/mailers/contact_mailer.rb
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+fatal: no upstream configured for branch 'master'
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+fatal: no upstream configured for branch 'master'
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+fatal: no upstream configured for branch 'master'
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+fatal: no upstream configured for branch 'master'
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+fatal: no upstream configured for branch 'master'
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+fatal: no upstream configured for branch 'master'
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+fatal: no upstream configured for branch 'master'
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+fatal: no upstream configured for branch 'master'
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+fatal: no upstream configured for branch 'master'
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+fatal: no upstream configured for branch 'master'
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+fatal: no upstream configured for branch 'master'
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git show --textconv :app/views/contact_mailer_mailer/contact_email.en.html.haml
+> git ls-files --stage -- /home/adiv/games/app/views/contact_mailer_mailer/contact_email.en.html.haml
+> git check-ignore -v -z --stdin
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+fatal: no upstream configured for branch 'master'
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+fatal: no upstream configured for branch 'master'
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+fatal: no upstream configured for branch 'master'
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+fatal: no upstream configured for branch 'master'
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+fatal: no upstream configured for branch 'master'
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+fatal: no upstream configured for branch 'master'
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+fatal: no upstream configured for branch 'master'
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+fatal: no upstream configured for branch 'master'
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+fatal: no upstream configured for branch 'master'
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+fatal: no upstream configured for branch 'master'
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+fatal: no upstream configured for branch 'master'
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+fatal: no upstream configured for branch 'master'
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+fatal: no upstream configured for branch 'master'
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+fatal: no upstream configured for branch 'master'
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+fatal: no upstream configured for branch 'master'
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+fatal: no upstream configured for branch 'master'
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+fatal: no upstream configured for branch 'master'
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+fatal: no upstream configured for branch 'master'
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git show --textconv :test/mailers/previews/contact_mailer_preview.rb
+> git ls-files --stage -- /home/adiv/games/test/mailers/previews/contact_mailer_preview.rb
+> git check-ignore -v -z --stdin
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+fatal: no upstream configured for branch 'master'
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+fatal: no upstream configured for branch 'master'
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+fatal: no upstream configured for branch 'master'
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+fatal: no upstream configured for branch 'master'
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+fatal: no upstream configured for branch 'master'
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+fatal: no upstream configured for branch 'master'
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+fatal: no upstream configured for branch 'master'
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+fatal: no upstream configured for branch 'master'
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+fatal: no upstream configured for branch 'master'
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+fatal: no upstream configured for branch 'master'
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git show --textconv :app/views/contact_mailer_mailer/contact_email.en.html.haml
+> git ls-files --stage -- /home/adiv/games/app/views/contact_mailer_mailer/contact_email.en.html.haml
+> git show --textconv :app/mailers/contact_mailer.rb
+> git ls-files --stage -- /home/adiv/games/app/mailers/contact_mailer.rb
+> git show --textconv :app/controllers/home_controller.rb
+> git ls-files --stage -- /home/adiv/games/app/controllers/home_controller.rb
+> git cat-file -s 0d3475e91942fd046d4613ce5ad06f1f263481a4
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+fatal: no upstream configured for branch 'master'
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+fatal: no upstream configured for branch 'master'
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+fatal: no upstream configured for branch 'master'
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+fatal: no upstream configured for branch 'master'
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git check-ignore -v -z --stdin
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+fatal: no upstream configured for branch 'master'
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git check-ignore -v -z --stdin
+> git show --textconv :app/views/contact_mailer/contact_email.en.html.haml
+> git ls-files --stage -- /home/adiv/games/app/views/contact_mailer/contact_email.en.html.haml
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+fatal: no upstream configured for branch 'master'
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+fatal: no upstream configured for branch 'master'
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+fatal: no upstream configured for branch 'master'
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git show --textconv :test/mailers/contact_mailer_test.rb
+> git ls-files --stage -- /home/adiv/games/test/mailers/contact_mailer_test.rb
+> git show --textconv :app/views/contact_mailer/contact_email.en.html.haml
+> git ls-files --stage -- /home/adiv/games/app/views/contact_mailer/contact_email.en.html.haml
+> git show --textconv :test/mailers/contact_mailer_test.rb
+> git ls-files --stage -- /home/adiv/games/test/mailers/contact_mailer_test.rb
+> git show --textconv :test/mailers/previews/contact_mailer_preview.rb
+> git ls-files --stage -- /home/adiv/games/test/mailers/previews/contact_mailer_preview.rb
+> git show --textconv :test/mailers/contact_mailer_test.rb
+> git ls-files --stage -- /home/adiv/games/test/mailers/contact_mailer_test.rb
+> git show --textconv :app/views/users/show.html.haml
+> git ls-files --stage -- /home/adiv/games/app/views/users/show.html.haml
+> git cat-file -s 5bd9721c48dc684463b13dbfe5f5bddddfbb1dd8
+> git check-ignore -v -z --stdin
+> git show --textconv :test/mailers/contact_mailer_test.rb
+> git ls-files --stage -- /home/adiv/games/test/mailers/contact_mailer_test.rb
+> git show --textconv :config/routes.rb
+> git ls-files --stage -- /home/adiv/games/config/routes.rb
+> git cat-file -s 9b1a9f40d64fa44d5cfb284da084be7e2d4592df
+> git show --textconv :app/assets/stylesheets/home.css.scss
+> git ls-files --stage -- /home/adiv/games/app/assets/stylesheets/home.css.scss
+> git cat-file -s fe249a329e68a8ef5d1fc93b1eb8109786222f4e
+> git show --textconv :config/routes.rb
+> git ls-files --stage -- /home/adiv/games/config/routes.rb
+> git cat-file -s 9b1a9f40d64fa44d5cfb284da084be7e2d4592df
+> git show --textconv :app/assets/stylesheets/users.css.scss
+> git ls-files --stage -- /home/adiv/games/app/assets/stylesheets/users.css.scss
+> git show --textconv :config/routes.rb
+> git ls-files --stage -- /home/adiv/games/config/routes.rb
+> git cat-file -s 9b1a9f40d64fa44d5cfb284da084be7e2d4592df
+> git show --textconv :test/mailers/contact_mailer_test.rb
+> git ls-files --stage -- /home/adiv/games/test/mailers/contact_mailer_test.rb
+> git show --textconv :app/controllers/home_controller.rb
+> git ls-files --stage -- /home/adiv/games/app/controllers/home_controller.rb
+> git cat-file -s 0d3475e91942fd046d4613ce5ad06f1f263481a4
+> git show --textconv :app/mailers/contact_mailer.rb
+> git ls-files --stage -- /home/adiv/games/app/mailers/contact_mailer.rb
+> git show --textconv :app/mailers/application_mailer.rb
+> git ls-files --stage -- /home/adiv/games/app/mailers/application_mailer.rb
+> git cat-file -s 286b2239d139960190594225e0134fe1a5c05370
+> git show --textconv :test/mailers/contact_mailer_test.rb
+> git ls-files --stage -- /home/adiv/games/test/mailers/contact_mailer_test.rb
+> git show --textconv :app/mailers/application_mailer.rb
+> git ls-files --stage -- /home/adiv/games/app/mailers/application_mailer.rb
+> git cat-file -s 286b2239d139960190594225e0134fe1a5c05370
+> git show --textconv :test/mailers/contact_mailer_test.rb
+> git ls-files --stage -- /home/adiv/games/test/mailers/contact_mailer_test.rb
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+fatal: no upstream configured for branch 'master'
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git show --textconv :db/schema.rb
+> git ls-files --stage -- /home/adiv/games/db/schema.rb
+> git cat-file -s 5f7743757498109c10165f7931d551fcdf6e12a9
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+fatal: no upstream configured for branch 'master'
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git show --textconv :test/controllers/games_controller_test.rb
+> git ls-files --stage -- /home/adiv/games/test/controllers/games_controller_test.rb
+> git cat-file -s 1f89286239d01113aaf21a6c9dd884548f89e45d
+> git show --textconv :test/controllers/home_controller_test.rb
+> git ls-files --stage -- /home/adiv/games/test/controllers/home_controller_test.rb
+> git show --textconv :db/migrate/20201206165634_add_index_to_games.rb
+> git ls-files --stage -- /home/adiv/games/db/migrate/20201206165634_add_index_to_games.rb
+> git cat-file -s 907f61a2c278f30e6093f9cc675cdc381f882927
+> git show --textconv :db/migrate/20201206165343_create_games.rb
+> git ls-files --stage -- /home/adiv/games/db/migrate/20201206165343_create_games.rb
+> git cat-file -s 3cbfb6f6af5313a706d8599717df672995b433a7
+> git show --textconv :db/migrate/20201130200541_add_username_to_users.rb
+> git ls-files --stage -- /home/adiv/games/db/migrate/20201130200541_add_username_to_users.rb
+> git cat-file -s fed95d0e61ff88273a92054c738b6924e59a6919
+> git show --textconv :db/migrate/20201206165634_add_index_to_games.rb
+> git ls-files --stage -- /home/adiv/games/db/migrate/20201206165634_add_index_to_games.rb
+> git cat-file -s 907f61a2c278f30e6093f9cc675cdc381f882927
+> git show --textconv :db/migrate/20201206165343_create_games.rb
+> git ls-files --stage -- /home/adiv/games/db/migrate/20201206165343_create_games.rb
+> git cat-file -s 3cbfb6f6af5313a706d8599717df672995b433a7
+> git show --textconv :db/migrate/20201130193329_devise_create_users.rb
+> git ls-files --stage -- /home/adiv/games/db/migrate/20201130193329_devise_create_users.rb
+> git cat-file -s e4fe133a93db2fd95c8e87621a9d00a4ee60b277
+> git show --textconv :db/migrate/20201206165343_create_games.rb
+> git ls-files --stage -- /home/adiv/games/db/migrate/20201206165343_create_games.rb
+> git cat-file -s 3cbfb6f6af5313a706d8599717df672995b433a7
+> git show --textconv :db/migrate/20201130200541_add_username_to_users.rb
+> git ls-files --stage -- /home/adiv/games/db/migrate/20201130200541_add_username_to_users.rb
+> git cat-file -s fed95d0e61ff88273a92054c738b6924e59a6919

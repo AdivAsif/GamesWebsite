@@ -1,0 +1,51 @@
+Looking for git in: git
+Using git 2.27.0 from git
+> git rev-parse --git-dir
+Open repository: /home/adiv/notes
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse main
+> git rev-parse --symbolic-full-name main@{u}
+> git rev-list --left-right main...refs/remotes/origin/main
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git check-ignore -v -z --stdin
+> git show --textconv :test/controllers/home_controller_test.rb
+> git ls-files --stage -- /home/adiv/notes/test/controllers/home_controller_test.rb
+> git cat-file -s 371f7d57c01de7778f4beac7a8070a5f8b7a3caa
+> git check-ignore -v -z --stdin
+> git check-ignore -v -z --stdin
+> git show --textconv :db/schema.rb
+> git ls-files --stage -- /home/adiv/notes/db/schema.rb
+> git cat-file -s 4aac75b4c430f754a3ea3c1a4a5fd9bee1152c4c
+> git check-ignore -v -z --stdin
+> git check-ignore -v -z --stdin
+> git check-ignore -v -z --stdin
+> git show --textconv :db/migrate/20201127102536_create_notes.rb
+> git ls-files --stage -- /home/adiv/notes/db/migrate/20201127102536_create_notes.rb
+> git cat-file -s 04845de9239027c6194453190a0b7f5a045e92cc
+> git show --textconv :db/migrate/20201127105853_create_tasks.rb
+> git ls-files --stage -- /home/adiv/notes/db/migrate/20201127105853_create_tasks.rb
+> git cat-file -s c7d6261cb4a2978654a1b2a6f67bc0f819c25491
+> git show --textconv :db/migrate/20201127102759_add_index_to_notes.rb
+> git ls-files --stage -- /home/adiv/notes/db/migrate/20201127102759_add_index_to_notes.rb
+> git cat-file -s 0405ed0df56c2999440b0e739c663ac87d1fec7b
+> git show --textconv :db/migrate/20201127105853_create_tasks.rb
+> git ls-files --stage -- /home/adiv/notes/db/migrate/20201127105853_create_tasks.rb
+> git cat-file -s c7d6261cb4a2978654a1b2a6f67bc0f819c25491
+> git show --textconv :db/migrate/20201127102759_add_index_to_notes.rb
+> git ls-files --stage -- /home/adiv/notes/db/migrate/20201127102759_add_index_to_notes.rb
+> git cat-file -s 0405ed0df56c2999440b0e739c663ac87d1fec7b
+> git show --textconv :db/migrate/20201127102536_create_notes.rb
+> git ls-files --stage -- /home/adiv/notes/db/migrate/20201127102536_create_notes.rb
+> git cat-file -s 04845de9239027c6194453190a0b7f5a045e92cc
+> git show --textconv :db/migrate/20201127105853_create_tasks.rb
+> git ls-files --stage -- /home/adiv/notes/db/migrate/20201127105853_create_tasks.rb
+> git cat-file -s c7d6261cb4a2978654a1b2a6f67bc0f819c25491
+> git show --textconv :db/migrate/20201127175328_add_users_to_notes.rb
+> git ls-files --stage -- /home/adiv/notes/db/migrate/20201127175328_add_users_to_notes.rb
+> git cat-file -s f1e5a8325b5b069ddb3305e25b8d80d9d88db285
+> git show --textconv :db/migrate/20201127154339_devise_create_users.rb
+> git ls-files --stage -- /home/adiv/notes/db/migrate/20201127154339_devise_create_users.rb
+> git cat-file -s f674a59596e78c4daa13dfd1d8413497212d6f86

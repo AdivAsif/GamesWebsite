@@ -22,6 +22,7 @@
   }
   
   li a:hover {
+    background-color: #333333;
     color: #ffffff;
     text-decoration: none;
   }
@@ -57,14 +58,14 @@ footer {
     padding: 6px;
     margin-left: auto;
     height: 100%;
-    width: 33%;
+    width: 50%;
     float: left;
   }
   .column2 {
     padding: 6px;
     margin: auto;
     height: 100%;
-    width: 33%;
+    width: 50%;
     display: inline-block;
 
 
@@ -77,13 +78,6 @@ footer {
     a:hover {
       text-decoration: none;
     }
-  }
-  .column3 {
-    padding: 6px;
-    margin-right: auto;
-    height: 100%;
-    width: 33%;
-    float: right;
   }
 
   h4 {
@@ -107,5 +101,26 @@ footer {
   button:hover {
     color: #ffffff;
     text-decoration: none;
+  }
+}
+
+#games {
+  ul {
+    list-style-type: none;
+    margin-left:0px;
+    padding-left:0px;
+    display: inline-block;
+
+    li a:hover:before {
+      background: transparent;
+    }
+    li img:hover {
+      opacity: 0.8;
+    }
+    img {
+      float: none;
+      height: 10%;
+      width: 10%;
+    }
   }
 }
