@@ -1,0 +1,58 @@
+[2020-12-14 07:08:32.551] [exthost] [info] extension host started
+[2020-12-14 07:08:32.764] [exthost] [info] ExtensionService#_doActivateExtension vscode.microsoft-authentication {"startup":false,"extensionId":{"value":"vscode.microsoft-authentication","_lower":"vscode.microsoft-authentication"},"activationEvent":"onAuthenticationRequest:microsoft"}
+[2020-12-14 07:08:32.764] [exthost] [info] ExtensionService#loadCommonJSModule file:///snap/code/51/usr/share/code/resources/app/extensions/microsoft-authentication/dist/extension.js
+[2020-12-14 07:08:32.802] [exthost] [info] ExtensionService#_doActivateExtension aki77.rails-routes {"startup":false,"extensionId":{"value":"aki77.rails-routes","_lower":"aki77.rails-routes"},"activationEvent":"onLanguage:haml"}
+[2020-12-14 07:08:32.804] [exthost] [info] ExtensionService#loadCommonJSModule file:///root/.vscode/extensions/aki77.rails-routes-0.4.1/out/extension
+[2020-12-14 07:08:32.942] [exthost] [info] ExtensionService#_doActivateExtension karunamurti.haml {"startup":false,"extensionId":{"value":"karunamurti.haml","_lower":"karunamurti.haml"},"activationEvent":"onLanguage:haml"}
+[2020-12-14 07:08:32.942] [exthost] [info] ExtensionService#loadCommonJSModule file:///root/.vscode/extensions/karunamurti.haml-1.3.1/haml
+[2020-12-14 07:08:32.943] [exthost] [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch {"startup":true,"extensionId":{"value":"vscode.debug-auto-launch","_lower":"vscode.debug-auto-launch"},"activationEvent":"*"}
+[2020-12-14 07:08:32.944] [exthost] [info] ExtensionService#loadCommonJSModule file:///snap/code/51/usr/share/code/resources/app/extensions/debug-auto-launch/dist/extension
+[2020-12-14 07:08:32.952] [exthost] [info] ExtensionService#_doActivateExtension vscode.emmet {"startup":true,"extensionId":{"value":"vscode.emmet","_lower":"vscode.emmet"},"activationEvent":"*"}
+[2020-12-14 07:08:32.952] [exthost] [info] ExtensionService#loadCommonJSModule file:///snap/code/51/usr/share/code/resources/app/extensions/emmet/dist/node/emmetNodeMain
+[2020-12-14 07:08:33.038] [exthost] [info] ExtensionService#_doActivateExtension vscode.git {"startup":true,"extensionId":{"value":"vscode.github","_lower":"vscode.github"},"activationEvent":"*"}
+[2020-12-14 07:08:33.038] [exthost] [info] ExtensionService#loadCommonJSModule file:///snap/code/51/usr/share/code/resources/app/extensions/git/dist/main
+[2020-12-14 07:08:33.154] [exthost] [info] ExtensionService#_doActivateExtension vscode.merge-conflict {"startup":true,"extensionId":{"value":"vscode.merge-conflict","_lower":"vscode.merge-conflict"},"activationEvent":"*"}
+[2020-12-14 07:08:33.154] [exthost] [info] ExtensionService#loadCommonJSModule file:///snap/code/51/usr/share/code/resources/app/extensions/merge-conflict/dist/mergeConflictMain
+[2020-12-14 07:08:33.158] [exthost] [info] ExtensionService#_doActivateExtension vscode.search-result {"startup":true,"extensionId":{"value":"vscode.search-result","_lower":"vscode.search-result"},"activationEvent":"*"}
+[2020-12-14 07:08:33.158] [exthost] [info] ExtensionService#loadCommonJSModule file:///snap/code/51/usr/share/code/resources/app/extensions/search-result/dist/extension.js
+[2020-12-14 07:08:33.161] [exthost] [info] ExtensionService#_doActivateExtension gencer.html-slim-scss-css-class-completion {"startup":true,"extensionId":{"value":"gencer.html-slim-scss-css-class-completion","_lower":"gencer.html-slim-scss-css-class-completion"},"activationEvent":"*"}
+[2020-12-14 07:08:33.161] [exthost] [info] ExtensionService#loadCommonJSModule file:///root/.vscode/extensions/gencer.html-slim-scss-css-class-completion-1.7.8/dist/extension
+[2020-12-14 07:08:33.284] [exthost] [info] ExtensionService#_doActivateExtension vscode.npm {"startup":true,"extensionId":{"value":"vscode.npm","_lower":"vscode.npm"},"activationEvent":"workspaceContains:package.json"}
+[2020-12-14 07:08:33.284] [exthost] [info] ExtensionService#loadCommonJSModule file:///snap/code/51/usr/share/code/resources/app/extensions/npm/dist/npmMain
+[2020-12-14 07:08:34.860] [exthost] [info] ExtensionService#_doActivateExtension ms-vscode.js-debug {"startup":false,"extensionId":{"value":"ms-vscode.js-debug","_lower":"ms-vscode.js-debug"},"activationEvent":"onCommand:extension.js-debug.clearAutoAttachVariables"}
+[2020-12-14 07:08:34.860] [exthost] [info] ExtensionService#loadCommonJSModule file:///snap/code/51/usr/share/code/resources/app/extensions/ms-vscode.js-debug/src/extension.js
+[2020-12-14 07:08:35.383] [exthost] [info] ExtensionService#_doActivateExtension vscode.github {"startup":false,"extensionId":{"value":"vscode.github","_lower":"vscode.github"},"activationEvent":"*"}
+[2020-12-14 07:08:35.383] [exthost] [info] ExtensionService#loadCommonJSModule file:///snap/code/51/usr/share/code/resources/app/extensions/github/dist/extension.js
+[2020-12-14 07:08:35.655] [exthost] [info] eager extensions activated
+[2020-12-14 07:08:36.193] [exthost] [info] ExtensionService#_doActivateExtension vscode.github-authentication {"startup":false,"extensionId":{"value":"vscode.github-authentication","_lower":"vscode.github-authentication"},"activationEvent":"onAuthenticationRequest:github"}
+[2020-12-14 07:08:36.193] [exthost] [info] ExtensionService#loadCommonJSModule file:///snap/code/51/usr/share/code/resources/app/extensions/github-authentication/dist/extension.js
+[2020-12-14 07:10:20.803] [exthost] [info] extension host started
+[2020-12-14 07:10:20.961] [exthost] [info] ExtensionService#_doActivateExtension vscode.microsoft-authentication {"startup":false,"extensionId":{"value":"vscode.microsoft-authentication","_lower":"vscode.microsoft-authentication"},"activationEvent":"onAuthenticationRequest:microsoft"}
+[2020-12-14 07:10:20.962] [exthost] [info] ExtensionService#loadCommonJSModule file:///snap/code/51/usr/share/code/resources/app/extensions/microsoft-authentication/dist/extension.js
+[2020-12-14 07:10:20.986] [exthost] [info] ExtensionService#_doActivateExtension aki77.rails-routes {"startup":false,"extensionId":{"value":"aki77.rails-routes","_lower":"aki77.rails-routes"},"activationEvent":"onLanguage:ruby"}
+[2020-12-14 07:10:21.004] [exthost] [info] ExtensionService#loadCommonJSModule file:///root/.vscode/extensions/aki77.rails-routes-0.4.1/out/extension
+[2020-12-14 07:10:21.113] [exthost] [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch {"startup":true,"extensionId":{"value":"vscode.debug-auto-launch","_lower":"vscode.debug-auto-launch"},"activationEvent":"*"}
+[2020-12-14 07:10:21.120] [exthost] [info] ExtensionService#loadCommonJSModule file:///snap/code/51/usr/share/code/resources/app/extensions/debug-auto-launch/dist/extension
+[2020-12-14 07:10:21.122] [exthost] [info] ExtensionService#_doActivateExtension vscode.emmet {"startup":true,"extensionId":{"value":"vscode.emmet","_lower":"vscode.emmet"},"activationEvent":"*"}
+[2020-12-14 07:10:21.125] [exthost] [info] ExtensionService#loadCommonJSModule file:///snap/code/51/usr/share/code/resources/app/extensions/emmet/dist/node/emmetNodeMain
+[2020-12-14 07:10:21.157] [exthost] [info] ExtensionService#_doActivateExtension vscode.git {"startup":true,"extensionId":{"value":"vscode.github","_lower":"vscode.github"},"activationEvent":"*"}
+[2020-12-14 07:10:21.159] [exthost] [info] ExtensionService#loadCommonJSModule file:///snap/code/51/usr/share/code/resources/app/extensions/git/dist/main
+[2020-12-14 07:10:21.179] [exthost] [info] ExtensionService#_doActivateExtension vscode.merge-conflict {"startup":true,"extensionId":{"value":"vscode.merge-conflict","_lower":"vscode.merge-conflict"},"activationEvent":"*"}
+[2020-12-14 07:10:21.188] [exthost] [info] ExtensionService#loadCommonJSModule file:///snap/code/51/usr/share/code/resources/app/extensions/merge-conflict/dist/mergeConflictMain
+[2020-12-14 07:10:21.191] [exthost] [info] ExtensionService#_doActivateExtension vscode.search-result {"startup":true,"extensionId":{"value":"vscode.search-result","_lower":"vscode.search-result"},"activationEvent":"*"}
+[2020-12-14 07:10:21.197] [exthost] [info] ExtensionService#loadCommonJSModule file:///snap/code/51/usr/share/code/resources/app/extensions/search-result/dist/extension.js
+[2020-12-14 07:10:21.203] [exthost] [info] ExtensionService#_doActivateExtension gencer.html-slim-scss-css-class-completion {"startup":true,"extensionId":{"value":"gencer.html-slim-scss-css-class-completion","_lower":"gencer.html-slim-scss-css-class-completion"},"activationEvent":"*"}
+[2020-12-14 07:10:21.203] [exthost] [info] ExtensionService#loadCommonJSModule file:///root/.vscode/extensions/gencer.html-slim-scss-css-class-completion-1.7.8/dist/extension
+[2020-12-14 07:10:21.488] [exthost] [info] ExtensionService#_doActivateExtension vscode.npm {"startup":true,"extensionId":{"value":"vscode.npm","_lower":"vscode.npm"},"activationEvent":"workspaceContains:package.json"}
+[2020-12-14 07:10:21.488] [exthost] [info] ExtensionService#loadCommonJSModule file:///snap/code/51/usr/share/code/resources/app/extensions/npm/dist/npmMain
+[2020-12-14 07:10:22.228] [exthost] [info] ExtensionService#_doActivateExtension ms-vscode.js-debug {"startup":false,"extensionId":{"value":"ms-vscode.js-debug","_lower":"ms-vscode.js-debug"},"activationEvent":"onCommand:extension.js-debug.clearAutoAttachVariables"}
+[2020-12-14 07:10:22.228] [exthost] [info] ExtensionService#loadCommonJSModule file:///snap/code/51/usr/share/code/resources/app/extensions/ms-vscode.js-debug/src/extension.js
+[2020-12-14 07:10:22.545] [exthost] [info] ExtensionService#_doActivateExtension vscode.github {"startup":false,"extensionId":{"value":"vscode.github","_lower":"vscode.github"},"activationEvent":"*"}
+[2020-12-14 07:10:22.546] [exthost] [info] ExtensionService#loadCommonJSModule file:///snap/code/51/usr/share/code/resources/app/extensions/github/dist/extension.js
+[2020-12-14 07:10:22.913] [exthost] [info] ExtensionService#_doActivateExtension vscode.github-authentication {"startup":false,"extensionId":{"value":"vscode.github-authentication","_lower":"vscode.github-authentication"},"activationEvent":"onAuthenticationRequest:github"}
+[2020-12-14 07:10:22.914] [exthost] [info] ExtensionService#loadCommonJSModule file:///snap/code/51/usr/share/code/resources/app/extensions/github-authentication/dist/extension.js
+[2020-12-14 07:10:23.792] [exthost] [info] ExtensionService#_doActivateExtension rebornix.ruby {"startup":false,"extensionId":{"value":"rebornix.ruby","_lower":"rebornix.ruby"},"activationEvent":"onLanguage:ruby"}
+[2020-12-14 07:10:23.792] [exthost] [info] ExtensionService#loadCommonJSModule file:///root/.vscode/extensions/rebornix.ruby-0.27.0/dist/client/ruby.js
+[2020-12-14 07:10:23.845] [exthost] [info] eager extensions activated
+[2020-12-14 07:10:27.921] [exthost] [info] ExtensionService#_doActivateExtension karunamurti.haml {"startup":false,"extensionId":{"value":"karunamurti.haml","_lower":"karunamurti.haml"},"activationEvent":"onLanguage:haml"}
+[2020-12-14 07:10:27.921] [exthost] [info] ExtensionService#loadCommonJSModule file:///root/.vscode/extensions/karunamurti.haml-1.3.1/haml

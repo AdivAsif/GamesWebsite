@@ -1,0 +1,135 @@
+Looking for git in: git
+Using git 2.27.0 from git
+> git rev-parse --git-dir
+Open repository: /home/adiv/games
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git show --textconv :db/schema.rb
+> git ls-files --stage -- /home/adiv/games/db/schema.rb
+> git cat-file -s 34679e824622e8bd2d0eef985c8c9f176837f660
+> git check-ignore -v -z --stdin
+> git check-ignore -v -z --stdin
+> git show --textconv :app/views/games/show.html.haml
+> git ls-files --stage -- /home/adiv/games/app/views/games/show.html.haml
+> git cat-file -s f269b75c747ed8311ea1a3bf4c0bac04ce646e0d
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git show --textconv :app/views/games/edit.html.haml
+> git ls-files --stage -- /home/adiv/games/app/views/games/edit.html.haml
+> git cat-file -s 6f8f085d6afc75498bff95bb22471ac892751335
+> git show --textconv :app/views/games/_form.html.haml
+> git ls-files --stage -- /home/adiv/games/app/views/games/_form.html.haml
+> git cat-file -s fda38104b37b3158a5acc7430f86c46ecb99f6e4
+> git show --textconv :app/views/home/home.html.haml
+> git ls-files --stage -- /home/adiv/games/app/views/home/home.html.haml
+> git cat-file -s 42cfe1cd3dc49f6a1037ea003c73bafd83ca2f5d
+> git check-ignore -v -z --stdin
+> git show --textconv :app/views/shared/_games.html.haml
+> git ls-files --stage -- /home/adiv/games/app/views/shared/_games.html.haml
+> git cat-file -s 342aca12bf2a835fba8e26fc24c6e89c654e3465
+> git show --textconv :app/views/games/show.html.haml
+> git ls-files --stage -- /home/adiv/games/app/views/games/show.html.haml
+> git cat-file -s f269b75c747ed8311ea1a3bf4c0bac04ce646e0d
+> git check-ignore -v -z --stdin
+> git check-ignore -v -z --stdin
+> git show --textconv :app/views/game_lists/show.html.haml
+> git ls-files --stage -- /home/adiv/games/app/views/game_lists/show.html.haml
+> git cat-file -s 2aff2de9787ab17e583363f58143b2c8e888538f
+> git show --textconv :app/views/games/show.html.haml
+> git ls-files --stage -- /home/adiv/games/app/views/games/show.html.haml
+> git cat-file -s f269b75c747ed8311ea1a3bf4c0bac04ce646e0d
+> git show --textconv :app/views/game_lists/show.html.haml
+> git ls-files --stage -- /home/adiv/games/app/views/game_lists/show.html.haml
+> git cat-file -s 2aff2de9787ab17e583363f58143b2c8e888538f
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template

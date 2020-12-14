@@ -1,0 +1,17 @@
+Looking for git in: git
+Using git 2.27.0 from git
+> git rev-parse --git-dir
+Open repository: /home/adiv/notes
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse main
+> git rev-parse --symbolic-full-name main@{u}
+> git rev-list --left-right main...refs/remotes/origin/main
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git check-ignore -v -z --stdin
+> git show --textconv :Gemfile
+> git ls-files --stage -- /home/adiv/notes/Gemfile
+> git cat-file -s 4a215d8beb6bad51f12d1dc5fea0f6b4237b367d
+> git check-ignore -v -z --stdin
