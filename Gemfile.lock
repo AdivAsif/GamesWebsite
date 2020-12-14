@@ -219,8 +219,6 @@ GEM
       activesupport (>= 4.0)
       sprockets (>= 3.0.0)
     sqlite3 (1.4.2)
-    steam_web_api (0.0.3)
-      faraday (~> 0.9)
     temple (0.8.2)
     therubyracer (0.12.3)
       libv8 (~> 3.16.14.15)
@@ -281,7 +279,6 @@ DEPENDENCIES
   spring-watcher-listen (~> 2.0.0)
   sprockets
   sqlite3
-  steam_web_api
   therubyracer
   turbolinks (~> 5)
   tzinfo-data
