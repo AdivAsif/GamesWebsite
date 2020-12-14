@@ -14,13 +14,10 @@ class GamesTest < ApplicationSystemTestCase
     visit games_url
     click_on "New Game"
 
-    fill_in "Aggregated rating", with: @game.aggregated_rating
     fill_in "Cover", with: @game.cover
     fill_in "Genre", with: @game.genre
     fill_in "Name", with: @game.name
-    fill_in "Platform", with: @game.platform
     fill_in "Rating", with: @game.rating
-    fill_in "Release date", with: @game.release_date
     fill_in "Summary", with: @game.summary
     click_on "Create Game"
 
@@ -32,13 +29,10 @@ class GamesTest < ApplicationSystemTestCase
     visit games_url
     click_on "Edit", match: :first
 
-    fill_in "Aggregated rating", with: @game.aggregated_rating
     fill_in "Cover", with: @game.cover
     fill_in "Genre", with: @game.genre
     fill_in "Name", with: @game.name
-    fill_in "Platform", with: @game.platform
     fill_in "Rating", with: @game.rating
-    fill_in "Release date", with: @game.release_date
     fill_in "Summary", with: @game.summary
     click_on "Update Game"
 

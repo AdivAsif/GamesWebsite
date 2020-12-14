@@ -1,0 +1,17 @@
+[2020-12-13 10:32:26.401] [exthost] [info] extension host started
+[2020-12-13 10:32:26.620] [exthost] [info] ExtensionService#_doActivateExtension vscode.microsoft-authentication {"startup":false,"extensionId":{"value":"vscode.microsoft-authentication","_lower":"vscode.microsoft-authentication"},"activationEvent":"onAuthenticationRequest:microsoft"}
+[2020-12-13 10:32:26.620] [exthost] [info] ExtensionService#loadCommonJSModule file:///snap/code/51/usr/share/code/resources/app/extensions/microsoft-authentication/dist/extension.js
+[2020-12-13 10:32:26.637] [exthost] [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch {"startup":true,"extensionId":{"value":"vscode.debug-auto-launch","_lower":"vscode.debug-auto-launch"},"activationEvent":"*"}
+[2020-12-13 10:32:26.640] [exthost] [info] ExtensionService#loadCommonJSModule file:///snap/code/51/usr/share/code/resources/app/extensions/debug-auto-launch/dist/extension
+[2020-12-13 10:32:26.648] [exthost] [info] ExtensionService#_doActivateExtension vscode.emmet {"startup":true,"extensionId":{"value":"vscode.emmet","_lower":"vscode.emmet"},"activationEvent":"*"}
+[2020-12-13 10:32:26.648] [exthost] [info] ExtensionService#loadCommonJSModule file:///snap/code/51/usr/share/code/resources/app/extensions/emmet/dist/node/emmetNodeMain
+[2020-12-13 10:32:26.672] [exthost] [info] ExtensionService#_doActivateExtension vscode.git {"startup":true,"extensionId":{"value":"vscode.github","_lower":"vscode.github"},"activationEvent":"*"}
+[2020-12-13 10:32:26.672] [exthost] [info] ExtensionService#loadCommonJSModule file:///snap/code/51/usr/share/code/resources/app/extensions/git/dist/main
+[2020-12-13 10:32:26.767] [exthost] [info] ExtensionService#_doActivateExtension vscode.merge-conflict {"startup":true,"extensionId":{"value":"vscode.merge-conflict","_lower":"vscode.merge-conflict"},"activationEvent":"*"}
+[2020-12-13 10:32:26.767] [exthost] [info] ExtensionService#loadCommonJSModule file:///snap/code/51/usr/share/code/resources/app/extensions/merge-conflict/dist/mergeConflictMain
+[2020-12-13 10:32:26.769] [exthost] [info] ExtensionService#_doActivateExtension vscode.search-result {"startup":true,"extensionId":{"value":"vscode.search-result","_lower":"vscode.search-result"},"activationEvent":"*"}
+[2020-12-13 10:32:26.769] [exthost] [info] ExtensionService#loadCommonJSModule file:///snap/code/51/usr/share/code/resources/app/extensions/search-result/dist/extension.js
+[2020-12-13 10:32:26.770] [exthost] [info] ExtensionService#_doActivateExtension gencer.html-slim-scss-css-class-completion {"startup":true,"extensionId":{"value":"gencer.html-slim-scss-css-class-completion","_lower":"gencer.html-slim-scss-css-class-completion"},"activationEvent":"*"}
+[2020-12-13 10:32:26.770] [exthost] [info] ExtensionService#loadCommonJSModule file:///root/.vscode/extensions/gencer.html-slim-scss-css-class-completion-1.7.8/dist/extension
+[2020-12-13 10:32:26.869] [exthost] [info] ExtensionService#_doActivateExtension vscode.npm {"startup":true,"extensionId":{"value":"vscode.npm","_lower":"vscode.npm"},"activationEvent":"workspaceContains:package.json"}
+[2020-12-13 10:32:26.870] [exthost] [info] ExtensionService#loadCommonJSModule file:///snap/code/51/usr/share/code/resources/app/extensions/npm/dist/npmMain

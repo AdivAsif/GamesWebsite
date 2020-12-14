@@ -110,6 +110,7 @@ footer {
     margin-left:0px;
     padding-left:0px;
     display: inline-block;
+    border: 10px #333333;
 
     li a:hover:before {
       background: transparent;
@@ -118,9 +119,11 @@ footer {
       opacity: 0.8;
     }
     img {
-      float: none;
-      height: 10%;
-      width: 10%;
+      padding: 2px;
+      float: left;
+      width: 225px;
+      height: 300px;
+      object-fit: cover;
     }
   }
 }

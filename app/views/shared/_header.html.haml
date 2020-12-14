@@ -13,6 +13,10 @@
         %a{"data-method" => "delete", href: destroy_user_session_path}
           %span.i.fa.fa-user-slash
           = t('.logout')
+      %li
+        %a{href: game_lists_path}
+          %span.i.fa.fa-list
+          = t('.list')
     -else
       %li
         %a{href: new_user_session_path}

@@ -7,28 +7,7 @@
           %li= message
 
   .field
-    = f.label :name
-    = f.text_field :name
-  .field
-    = f.label :cover
-    = f.text_field :cover
-  .field
-    = f.label :genre
-    = f.text_field :genre
-  .field
-    = f.label :release_date
-    = f.text_field :release_date
-  .field
     = f.label :rating
-    = f.number_field :rating
-  .field
-    = f.label :aggregated_rating
-    = f.text_field :aggregated_rating
-  .field
-    = f.label :platform
-    = f.text_field :platform
-  .field
-    = f.label :summary
-    = f.text_field :summary
+    = f.select :rating, [ 0, 1, 2, 3, 4, 5, 6, 7, 8, 9 ,10 ], :prompt => 'Select One' 
   .actions
     = f.submit 'Save'

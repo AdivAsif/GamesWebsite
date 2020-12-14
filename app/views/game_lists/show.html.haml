@@ -1,0 +1,14 @@
+#container
+  %p#notice= notice
+
+  - Game.all.each do |game|
+    %p
+      %b Cover:
+      %img{:height => "20%", :width => "20%", src: "/assets/#{game.cover}"}
+    %p
+      %b Title:
+      = @game_list.title
+
+    = link_to 'Edit', edit_game_list_path(@game_list)
+    \|
+    = link_to 'Back', game_lists_path

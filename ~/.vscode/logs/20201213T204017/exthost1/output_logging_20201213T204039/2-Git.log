@@ -1,0 +1,79 @@
+Looking for git in: git
+Using git 2.27.0 from git
+> git rev-parse --git-dir
+Open repository: /home/adiv/notes
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse main
+> git rev-parse --symbolic-full-name main@{u}
+> git check-ignore -v -z --stdin
+> git rev-list --left-right main...refs/remotes/origin/main
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git show --textconv :test/controllers/notes_controller_test.rb
+> git ls-files --stage -- /home/adiv/notes/test/controllers/notes_controller_test.rb
+> git cat-file -s 052c7fe9972f7cd5b739ed5db47c430980e88a06
+> git check-ignore -v -z --stdin
+> git check-ignore -v -z --stdin
+> git check-ignore -v -z --stdin
+> git check-ignore -v -z --stdin
+> git check-ignore -v -z --stdin
+> git show --textconv :app/views/notes/show.html.haml
+> git ls-files --stage -- /home/adiv/notes/app/views/notes/show.html.haml
+> git cat-file -s 96330094876cf36ba367d72ab475712e6c689f81
+> git check-ignore -v -z --stdin
+> git show --textconv :app/views/tasks/new.html.haml
+> git ls-files --stage -- /home/adiv/notes/app/views/tasks/new.html.haml
+> git cat-file -s 018fd21d71e9841e5af337d3aeced4c0e97be66f
+> git show --textconv :test/fixtures/notes.yml
+> git ls-files --stage -- /home/adiv/notes/test/fixtures/notes.yml
+> git cat-file -s a04a03b46f35f5605bfc4827c99bd56fe5c544a5
+> git show --textconv :app/views/tasks/show.html.haml
+> git ls-files --stage -- /home/adiv/notes/app/views/tasks/show.html.haml
+> git cat-file -s 588466c9c76a8be9643ace4cd625fe6d60c026ae
+> git show --textconv :app/views/notes/show.html.haml
+> git ls-files --stage -- /home/adiv/notes/app/views/notes/show.html.haml
+> git cat-file -s 96330094876cf36ba367d72ab475712e6c689f81
+> git show --textconv :app/views/tasks/_form.html.haml
+> git ls-files --stage -- /home/adiv/notes/app/views/tasks/_form.html.haml
+> git cat-file -s fc59712384fc4f1db5662bcd1cebb00f0f313779
+> git show --textconv :app/views/notes/_form.html.haml
+> git ls-files --stage -- /home/adiv/notes/app/views/notes/_form.html.haml
+> git cat-file -s 19e9b2154c97993e01dde539b4367166ba5a1452
+> git show --textconv :app/views/tasks/_form.html.haml
+> git ls-files --stage -- /home/adiv/notes/app/views/tasks/_form.html.haml
+> git cat-file -s fc59712384fc4f1db5662bcd1cebb00f0f313779
+> git show --textconv :app/views/tasks/new.html.haml
+> git ls-files --stage -- /home/adiv/notes/app/views/tasks/new.html.haml
+> git cat-file -s 018fd21d71e9841e5af337d3aeced4c0e97be66f
+> git show --textconv :app/views/tasks/show.html.haml
+> git ls-files --stage -- /home/adiv/notes/app/views/tasks/show.html.haml
+> git cat-file -s 588466c9c76a8be9643ace4cd625fe6d60c026ae
+> git show --textconv :app/views/notes/show.html.haml
+> git ls-files --stage -- /home/adiv/notes/app/views/notes/show.html.haml
+> git cat-file -s 96330094876cf36ba367d72ab475712e6c689f81
+> git show --textconv :app/views/notes/new.html.haml
+> git ls-files --stage -- /home/adiv/notes/app/views/notes/new.html.haml
+> git cat-file -s 13a2fc9d32c6a332947a9ce9491c2bbe842b9e01
+> git show --textconv :app/views/notes/_form.html.haml
+> git ls-files --stage -- /home/adiv/notes/app/views/notes/_form.html.haml
+> git cat-file -s 19e9b2154c97993e01dde539b4367166ba5a1452
+> git show --textconv :app/views/notes/index.html.haml
+> git ls-files --stage -- /home/adiv/notes/app/views/notes/index.html.haml
+> git cat-file -s 83474d171708ab00a08bfd5738fdcaa94bdde0b8
+> git show --textconv :app/views/notes/_form.html.haml
+> git ls-files --stage -- /home/adiv/notes/app/views/notes/_form.html.haml
+> git cat-file -s 19e9b2154c97993e01dde539b4367166ba5a1452
+> git show --textconv :app/views/tasks/_form.html.haml
+> git ls-files --stage -- /home/adiv/notes/app/views/tasks/_form.html.haml
+> git cat-file -s fc59712384fc4f1db5662bcd1cebb00f0f313779
+> git show --textconv :app/views/notes/index.json.jbuilder
+> git ls-files --stage -- /home/adiv/notes/app/views/notes/index.json.jbuilder
+> git cat-file -s de8595ffa522d53e405b9443b6279cb30699214f
+> git show --textconv :app/views/notes/new.html.haml
+> git ls-files --stage -- /home/adiv/notes/app/views/notes/new.html.haml
+> git cat-file -s 13a2fc9d32c6a332947a9ce9491c2bbe842b9e01
+> git show --textconv :app/views/notes/show.html.haml
+> git ls-files --stage -- /home/adiv/notes/app/views/notes/show.html.haml
+> git cat-file -s 96330094876cf36ba367d72ab475712e6c689f81

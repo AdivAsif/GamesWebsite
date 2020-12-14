@@ -15,26 +15,13 @@ class GamesControllerTest < ActionDispatch::IntegrationTest
     assert_response :success
   end
 
-  test "should create game" do
-    assert_difference('Game.count') do
-      post games_url, params: { game: { aggregated_rating: @game.aggregated_rating, cover: @game.cover, genre: @game.genre, name: @game.name, platform: @game.platform, rating: @game.rating, release_date: @game.release_date, summary: @game.summary + " create" } }
-    end
-
-    assert_redirected_to game_url(Game.last)
-  end
-
   test "should show game" do
     get game_url(@game)
     assert_response :success
   end
 
-  test "should get edit" do
-    get edit_game_url(@game)
-    assert_response :success
-  end
-
   test "should update game" do
-    patch game_url(@game), params: { game: { aggregated_rating: @game.aggregated_rating, cover: @game.cover, genre: @game.genre, name: @game.name, platform: @game.platform, rating: @game.rating, release_date: @game.release_date, summary: @game.summary } }
+    patch game_url(@game), params: { game: { cover: @game.cover, genre: @game.genre, name: @game.name, rating: @game.rating, summary: @game.summary } }
     assert_redirected_to game_url(@game)
   end
 

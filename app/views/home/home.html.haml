@@ -4,6 +4,9 @@
       = t('.title') 
     %p{id: "welcomep"}
       = t('.welcome') 
-    %a{:href => "/profile"}
-      = t('.profile') 
+    - if user_signed_in?
+      %a{:href => "/profile"}
+        = t('.profile') 
+    %h4
+      Featured Games: 
     = render partial: 'shared/games', object: @games

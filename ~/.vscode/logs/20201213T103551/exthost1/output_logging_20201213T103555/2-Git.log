@@ -1,0 +1,27 @@
+Looking for git in: git
+Using git 2.27.0 from git
+> git rev-parse --git-dir
+Open repository: /home/adiv/notes
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse main
+> git rev-parse --symbolic-full-name main@{u}
+> git rev-list --left-right main...refs/remotes/origin/main
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git show --textconv :test/fixtures/tasks.yml
+> git ls-files --stage -- /home/adiv/notes/test/fixtures/tasks.yml
+> git check-ignore -v -z --stdin
+> git cat-file -s 4046fe77051d4d379c49306173888fdad40a54d8
+> git show --textconv :test/fixtures/notes.yml
+> git ls-files --stage -- /home/adiv/notes/test/fixtures/notes.yml
+> git cat-file -s a04a03b46f35f5605bfc4827c99bd56fe5c544a5
+> git check-ignore -v -z --stdin
+> git show --textconv :test/models/note_test.rb
+> git ls-files --stage -- /home/adiv/notes/test/models/note_test.rb
+> git cat-file -s e704a28f107d6bab6606cc46c4dc40cf0eca0fbf
+> git check-ignore -v -z --stdin
+> git show --textconv :test/controllers/notes_controller_test.rb
+> git ls-files --stage -- /home/adiv/notes/test/controllers/notes_controller_test.rb
+> git cat-file -s 052c7fe9972f7cd5b739ed5db47c430980e88a06

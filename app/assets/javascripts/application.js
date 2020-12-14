@@ -28,3 +28,9 @@ function scrollTopFunction() {
   document.body.scrollTop = 0;
   document.documentElement.scrollTop = 0;
 }
+
+$(document).ready(function() {
+  $("#contact_id").click(function(){
+    
+  })
+});

@@ -1,0 +1,22 @@
+#container
+  %h1 Your Game List
+
+  %table
+    %thead
+      %tr
+        %th Title
+        %th
+        %th
+        %th
+
+    %tbody
+      - @game_lists.each do |game_list|
+        %tr
+          %td= game_list.title
+          %td= link_to 'Show', game_list
+          %td= link_to 'Edit', edit_game_list_path(game_list)
+          %td= link_to 'Destroy', game_list, method: :delete, data: { confirm: 'Are you sure?' }
+
+  %br
+
+  = link_to 'New Game list', new_game_list_path

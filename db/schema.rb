@@ -12,10 +12,14 @@
 
 ActiveRecord::Schema.define(version: 2020_12_12_031348) do
 
-  # These are extensions that must be enabled in order to support this database
-  enable_extension "plpgsql"
+  create_table "game_lists", force: :cascade do |t|
+    t.string "title"
+    t.datetime "created_at", null: false
+    t.datetime "updated_at", null: false
+  end
 
   create_table "games", force: :cascade do |t|
+    t.integer "game_list_id"
     t.string "name"
     t.string "cover"
     t.integer "rating"
@@ -23,6 +27,7 @@ ActiveRecord::Schema.define(version: 2020_12_12_031348) do
     t.string "genre"
     t.datetime "created_at", null: false
     t.datetime "updated_at", null: false
+    t.index ["game_list_id"], name: "index_games_on_game_list_id"
     t.index ["name"], name: "index_games_on_name", unique: true
   end
 

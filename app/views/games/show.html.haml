@@ -17,4 +17,17 @@
     %b Summary:
     = @game.summary
 
+  - if user_signed_in?
+    %p
+      %b Add #{@game.name} into your list?
+      = link_to ' Add Game', new_game_list_path(game_id: @game)
+    %p
+      %b Set the rating:
+      = link_to ' Set It', edit_game_path(game_id: @game)
+  - else
+    %p
+      %b Log in to add #{@game.name} to your list
+    %p
+      %b Log in to rate this game
+
   = link_to 'Back', games_path

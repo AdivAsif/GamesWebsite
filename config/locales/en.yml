@@ -61,8 +61,7 @@ en:
       logout: Log Out
       games: Games
       contact: Contact Us
-      search: Search games
-      submit: Search!
+      list: Your Game List
       dark: Toggle Dark Mode
     footer:
       about: About

@@ -2,6 +2,7 @@
   "name": "games",
   "private": true,
   "dependencies": {
-    "apicalypse": "^0.1.6"
+    "apicalypse": "^0.1.6",
+    "jquery": "^3.5.1"
   }
 }
