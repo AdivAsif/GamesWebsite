@@ -30,7 +30,12 @@ function scrollTopFunction() {
 }
 
 $(document).ready(function() {
-  $("#contact_id").click(function(){
-    
-  })
+  $("#submit").click(function() {
+    var name = $("#name").val();
+    var email = $("#email").val();
+    var message = $("#message").val();
+    if (name == '' || email == '') {
+      alert("Please fill required fields");
+    }
+  });
 });

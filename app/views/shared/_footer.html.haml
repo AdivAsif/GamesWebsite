@@ -4,7 +4,7 @@
     %p= t('.abouttext')
   .column2
     %h4= t('.github')
-    %p= t('.githubtext')
+    %a{href: "https://github.com"}t('.githubtext')
   %button{:onclick => "scrollTopFunction()"}
     %span.glyphicon.glyphicon-triangle-top
     = t('.scrolltop')
