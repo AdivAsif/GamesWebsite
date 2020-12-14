@@ -12,6 +12,9 @@
 
 ActiveRecord::Schema.define(version: 2020_12_12_031348) do
 
+  # These are extensions that must be enabled in order to support this database
+  enable_extension "plpgsql"
+
   create_table "game_lists", force: :cascade do |t|
     t.string "title"
     t.datetime "created_at", null: false
@@ -19,7 +22,7 @@ ActiveRecord::Schema.define(version: 2020_12_12_031348) do
   end
 
   create_table "games", force: :cascade do |t|
-    t.integer "game_list_id"
+    t.bigint "game_list_id"
     t.string "name"
     t.string "cover"
     t.integer "rating"
@@ -44,4 +47,5 @@ ActiveRecord::Schema.define(version: 2020_12_12_031348) do
     t.index ["reset_password_token"], name: "index_users_on_reset_password_token", unique: true
   end
 
+  add_foreign_key "games", "game_lists"
 end
